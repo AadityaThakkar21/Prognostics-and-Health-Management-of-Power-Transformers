@@ -1,2 +1,2 @@
 # ptphm
-Power Transformers Prognostics Health Management
+Power Transformers Prognostics & Health Management
