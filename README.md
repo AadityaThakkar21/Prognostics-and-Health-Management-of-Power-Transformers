@@ -1,6 +1,6 @@
 # Dataset Description
 
-This project uses the **ETDataset (Electricity Transformer Dataset)**, which contains multivariate time-series measurements collected from a power transformer.
+This project uses the **Electricity Transformer Temperature Dataset**, which contains multivariate time-series measurements collected from a power transformer.
 
 ---
 
