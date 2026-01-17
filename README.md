@@ -17,6 +17,34 @@ This project uses the **Electricity Transformer Temperature Dataset**, which con
 | `LULL` | Low Useless Load |
 | `OT` | Oil Temperature (target variable) |
 
+---
+
+## Useful vs Useless Load (Physical Meaning)
+
+- **Useful load (active power)**:  
+  Current is largely **in phase with voltage**, meaning current peaks when voltage
+  peaks. Electrical energy is transferred to the load and converted into real work.
+
+- **Useless load (reactive power)**:  
+  Current is **out of phase with voltage** due to inductive or capacitive elements.
+  Energy oscillates between the source and the magnetic/electric fields instead of
+  performing net work.
+
+Although reactive power does not produce useful output, it still increases the
+**current magnitude** flowing through the transformer.
+
+---
+
+## Relation to Oil Temperature
+
+Transformer heating depends on current, not on whether power is useful:
+\[
+\text{Copper loss} \propto I^2 R
+\]
+
+Out-of-phase (reactive) current still flows through resistive windings and produces
+heat, raising the oil temperature. Higher-level loads (HUFL, HULL) have the strongest
+impact, while lower-level loads contribute to baseline heating.
 
 ---
 
