@@ -1,10 +1,11 @@
 # Dataset Description
 
-This project uses the **Electricity Transformer Temperature Dataset**, which contains multivariate time-series measurements collected from a power transformer.
+1. ETD: Here we use the **Electricity Transformer Temperature Dataset**, which contains multivariate time-series measurements collected from a power transformer.
+2. DGA: Dissolved Gas Analysis
 
 ---
 
-## Fields
+## Fields for ETD Dataset
 
 | Field | Description |
 |------|------------|
@@ -51,6 +52,27 @@ impact, while lower-level loads contribute to baseline heating.
 ## Data Source
 
 The dataset is provided by the authors of the **Informer** model and is publicly available at: https://github.com/zhouhaoyi/ETDataset
+
+---
+
+## Understanding DGA
+
+There is no direct and infallible method using DGA to obtain an exact evaluation of a transformer’s condition. There are several reasons why the DGA status can be very different from the transformer’s true
+condition, some of which are as follows:
+
+a) There are several possible causes of the presence of gas in a transformer. Some of those are related
+to fault conditions (e.g., arcing, overheating, PD), others are related to more benign conditions
+(e.g., stray gassing, contamination, previous fault now inactive, and mild core overheating.
+
+b) Some pre-failure conditions simply do not generate gas. (e.g., mechanical or insulating system
+weakness).
+
+c) Some normal conditions do generate gases. (e.g., normal aging, and insulating liquid oxidation).
+
+d) The DGA data used to develop this procedure and norms came from in-service transformers for
+which their condition information (faulty or not) at the time of the DGA was unavailable.
+Therefore, there was no possibility to directly correlate one with the other, only to evaluate the
+DGA results distribution assuming most of the data came from healthy transformers.
 
 ---
 
