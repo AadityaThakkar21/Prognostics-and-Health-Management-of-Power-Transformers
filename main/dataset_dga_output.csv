@@ -1,0 +1,590 @@
+H2,CH4,C2H6,C2H4,C2H2,Fault Type,R1_C2H2_C2H4,R2_CH4_H2,R3_C2H4_C2H6,Rogers_Prediction,label_encoded,RF_Pred_encoded,RF_Pred_Label,TotalGas
+1458.0,9.0,1812.0,1e-06,1e-06,Partial Discharge,1.0,0.006172839506172839,5.518763796909492e-10,Unknown/Other,5,5.0,Partial Discharge,3279.0000019999998
+2240.0,157.0,90.0,157.0,45.0,Partial Discharge,0.28662420382165604,0.07008928571428572,1.7444444444444445,Unknown/Other,5,5.0,Partial Discharge,2689.0
+73.0,8.0,4.0,2.0,12.0,Partial Discharge,6.0,0.1095890410958904,0.5,Unknown/Other,5,5.0,Partial Discharge,99.0
+235.0,16.0,1e-06,35.0,1e-06,Partial Discharge,2.857142857142857e-08,0.06808510638297872,35000000.0,Unknown/Other,5,5.0,Partial Discharge,286.000002
+9340.0,995.0,60.0,6.0,7.0,Partial Discharge,1.1666666666666667,0.10653104925053533,0.1,Unknown/Other,5,5.0,Partial Discharge,10408.0
+33046.0,619.0,58.0,2.0,1e-06,Partial Discharge,5e-07,0.018731465230285058,0.034482758620689655,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,33725.000001
+8266.0,1061.0,22.0,1e-06,1e-06,Partial Discharge,1.0,0.12835712557464313,4.545454545454545e-08,Unknown/Other,5,5.0,Partial Discharge,9349.000002
+230.0,15.9,16.3,1.9,2.4,Partial Discharge,1.263157894736842,0.06913043478260869,0.1165644171779141,Unknown/Other,5,2.0,Low Energy Discharge,266.49999999999994
+109.0,16.0,1e-06,1e-06,1e-06,Partial Discharge,1.0,0.14678899082568808,1.0,Unknown/Other,5,5.0,Partial Discharge,125.00000299999999
+113.0,21.0,48.0,1e-06,4.0,Partial Discharge,4000000.0,0.18584070796460178,2.083333333333333e-08,Unknown/Other,5,5.0,Partial Discharge,186.000001
+1309.0,124.0,113.0,6.0,1e-06,Partial Discharge,1.6666666666666665e-07,0.09472880061115355,0.05309734513274336,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,1552.000001
+1549.2,10.2,1e-06,53.19,1e-06,Partial Discharge,1.8800526414739613e-08,0.006584043377226955,53190000.0,Unknown/Other,5,5.0,Partial Discharge,1612.5900020000004
+101.0,8.1,1e-06,3.0,1e-06,Partial Discharge,3.333333333333333e-07,0.0801980198019802,3000000.0,Unknown/Other,5,5.0,Partial Discharge,112.10000199999999
+36036.0,4704.0,554.0,5.0,10.0,Partial Discharge,2.0,0.13053613053613053,0.009025270758122744,Unknown/Other,5,5.0,Partial Discharge,41309.0
+160.0,10.0,3.0,1.0,1.0,Partial Discharge,1.0,0.0625,0.3333333333333333,Unknown/Other,5,5.0,Partial Discharge,175.0
+1076.0,95.0,4.0,71.0,231.0,Partial Discharge,3.2535211267605635,0.08828996282527882,17.75,Unknown/Other,5,5.0,Partial Discharge,1477.0
+407.0,28.0,15.0,21.0,1e-06,Partial Discharge,4.761904761904762e-08,0.0687960687960688,1.4,Unknown/Other,5,5.0,Partial Discharge,471.000001
+2240.0,560.0,380.0,450.0,940.0,Partial Discharge,2.088888888888889,0.25,1.1842105263157894,Unknown/Other,5,5.0,Partial Discharge,4570.0
+92600.0,10200.0,1.0,2.0,1e-06,Partial Discharge,5e-07,0.1101511879049676,2.0,Low Temperature Overheating,5,5.0,Partial Discharge,102803.000001
+2587.2,112.25,4.704,1.4,1e-06,Partial Discharge,7.142857142857143e-07,0.04338667285095857,0.2976190476190476,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,2705.554001
+195.9,14.5,11.6,2.4,1e-06,Partial Discharge,4.1666666666666667e-07,0.07401735579377233,0.20689655172413793,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,224.400001
+180.85,0.574,0.234,0.188,1e-06,Partial Discharge,5.319148936170212e-06,0.003173901022947194,0.8034188034188033,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,181.846001
+4480.0,560.0,380.0,403.0,896.0,Partial Discharge,2.2233250620347396,0.125,1.0605263157894738,Unknown/Other,5,5.0,Partial Discharge,6719.0
+1651.0,90.0,33.0,45.0,2.0,Partial Discharge,0.044444444444444446,0.054512416717141125,1.3636363636363635,Unknown/Other,5,5.0,Partial Discharge,1821.0
+980.0,73.0,58.0,12.0,1e-06,Partial Discharge,8.333333333333333e-08,0.07448979591836735,0.20689655172413793,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,1123.000001
+6600.0,1000.0,38.0,2.0,19.0,Partial Discharge,9.5,0.15151515151515152,0.05263157894736842,Unknown/Other,5,5.0,Partial Discharge,7659.0
+56.0,61.0,75.0,32.0,31.0,Partial Discharge,0.96875,1.0892857142857142,0.4266666666666667,Unknown/Other,5,5.0,Partial Discharge,255.0
+2240.0,168.0,25.0,1e-06,1e-06,Partial Discharge,1.0,0.075,4e-08,Unknown/Other,5,5.0,Partial Discharge,2433.0000019999998
+92600.0,10200.0,1e-06,1e-06,1e-06,Partial Discharge,1.0,0.1101511879049676,1.0,Unknown/Other,5,5.0,Partial Discharge,102800.00000299998
+24.3,15.7,6.4,11.2,29.8,Partial Discharge,2.660714285714286,0.6460905349794238,1.7499999999999998,Unknown/Other,5,5.0,Partial Discharge,87.39999999999999
+485.0,35.0,29.0,6.0,1e-06,Partial Discharge,1.6666666666666665e-07,0.07216494845360824,0.20689655172413793,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,555.000001
+109.0,4.0,11.0,9.0,1e-06,Partial Discharge,1.1111111111111111e-07,0.03669724770642202,0.8181818181818182,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,133.000001
+16000.0,4000.0,500.0,8500.0,16000.0,Partial Discharge,1.8823529411764706,0.25,17.0,High Energy Discharge (Arcing),5,5.0,Partial Discharge,45000.0
+2031.0,149.0,20.0,3.0,1e-06,Partial Discharge,3.333333333333333e-07,0.07336287543082226,0.15,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,2203.000001
+870.0,77.0,73.0,54.0,14.0,Partial Discharge,0.25925925925925924,0.08850574712643679,0.7397260273972602,Unknown/Other,5,2.0,Low Energy Discharge,1088.0
+106.0,4.0,2.0,1.0,1e-06,Partial Discharge,1e-06,0.03773584905660377,0.5,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,113.000001
+32930.0,2397.0,157.0,1e-06,1e-06,Partial Discharge,1.0,0.07279076829638627,6.369426751592357e-09,Unknown/Other,5,5.0,Partial Discharge,35484.000002
+197.0,12.0,6.6,15.0,1e-06,Partial Discharge,6.666666666666667e-08,0.06091370558375635,2.272727272727273,Unknown/Other,5,5.0,Partial Discharge,230.600001
+117.0,17.0,1.0,3.0,1.0,Partial Discharge,0.3333333333333333,0.1452991452991453,3.0,Unknown/Other,5,5.0,Partial Discharge,139.0
+160.0,24.7,38.5,1e-06,1e-06,Partial Discharge,1.0,0.15437499999999998,2.5974025974025973e-08,Unknown/Other,5,5.0,Partial Discharge,223.20000199999998
+134.0,13.0,156.0,1e-06,1e-06,Partial Discharge,1.0,0.09701492537313433,6.41025641025641e-09,Unknown/Other,5,5.0,Partial Discharge,303.000002
+166.0,21.0,38.0,6.0,1e-06,Partial Discharge,1.6666666666666665e-07,0.12650602409638553,0.15789473684210525,Normal,5,5.0,Partial Discharge,231.000001
+183.0,6.0,1e-06,5.0,1e-06,Partial Discharge,2e-07,0.03278688524590164,5000000.0,Unknown/Other,5,5.0,Partial Discharge,194.000002
+2240.0,157.0,90.0,45.0,45.0,Partial Discharge,1.0,0.07008928571428572,0.5,Unknown/Other,5,5.0,Partial Discharge,2577.0
+6454.0,2313.0,121.0,2159.0,6432.0,Low Energy Discharge,2.9791570171375636,0.3583823985125504,17.84297520661157,High Energy Discharge (Arcing),2,0.0,High Energy Discharge (Arcing),17479.0
+240.0,20.0,5.0,28.0,96.0,Low Energy Discharge,3.4285714285714284,0.08333333333333333,5.6,Unknown/Other,2,2.0,Low Energy Discharge,389.0
+65.2,20.0,3.9,8.13,25.1,Low Energy Discharge,3.087330873308733,0.3067484662576687,2.0846153846153848,Unknown/Other,2,2.0,Low Energy Discharge,122.33000000000001
+143.0,5.8,16.0,10.6,26.3,Low Energy Discharge,2.4811320754716983,0.04055944055944056,0.6625,Unknown/Other,2,2.0,Low Energy Discharge,201.70000000000002
+30.1,17.1,2.2,5.5,30.1,Low Energy Discharge,5.472727272727273,0.5681063122923589,2.5,Unknown/Other,2,2.0,Low Energy Discharge,85.0
+120.0,25.0,1.0,8.0,40.0,Low Energy Discharge,5.0,0.20833333333333334,8.0,Unknown/Other,2,2.0,Low Energy Discharge,194.0
+137.0,6.0,11.4,6.4,16.5,Low Energy Discharge,2.578125,0.043795620437956206,0.5614035087719298,Unknown/Other,2,2.0,Low Energy Discharge,177.3
+23.0,63.0,54.0,10.0,0.3,Low Energy Discharge,0.03,2.739130434782609,0.18518518518518517,Unknown/Other,2,2.0,Low Energy Discharge,150.3
+4879.0,262.0,15.0,332.0,1827.0,Low Energy Discharge,5.503012048192771,0.053699528591924575,22.133333333333333,Unknown/Other,2,2.0,Low Energy Discharge,7315.0
+301.0,5.78,4.7,9.7,5.0,Low Energy Discharge,0.5154639175257733,0.01920265780730897,2.0638297872340425,Unknown/Other,2,2.0,Low Energy Discharge,326.17999999999995
+716.0,7.1,3.3,20.0,6.8,Low Energy Discharge,0.33999999999999997,0.009916201117318436,6.0606060606060606,Unknown/Other,2,2.0,Low Energy Discharge,753.1999999999999
+289.0,13.4,18.2,49.8,36.3,Low Energy Discharge,0.7289156626506024,0.04636678200692042,2.7362637362637363,Unknown/Other,2,2.0,Low Energy Discharge,406.7
+179.0,29.0,10.0,17.0,33.0,Low Energy Discharge,1.9411764705882353,0.16201117318435754,1.7,Unknown/Other,2,2.0,Low Energy Discharge,268.0
+2177.0,1049.0,207.0,440.0,705.0,Low Energy Discharge,1.6022727272727273,0.4818557648139642,2.1256038647342996,Unknown/Other,2,2.0,Low Energy Discharge,4578.0
+7600.0,1230.0,318.0,836.0,1560.0,Low Energy Discharge,1.8660287081339713,0.1618421052631579,2.6289308176100628,Unknown/Other,2,2.0,Low Energy Discharge,11544.0
+543.0,120.0,41.0,411.0,1880.0,Low Energy Discharge,4.574209245742092,0.22099447513812154,10.024390243902438,Unknown/Other,2,0.0,High Energy Discharge (Arcing),2995.0
+186.0,38.3,13.0,37.0,85.9,Low Energy Discharge,2.3216216216216217,0.20591397849462365,2.8461538461538463,Unknown/Other,2,2.0,Low Energy Discharge,360.20000000000005
+4.1,3.5,0.68,1.2,5.2,Low Energy Discharge,4.333333333333334,0.853658536585366,1.764705882352941,Unknown/Other,2,2.0,Low Energy Discharge,14.68
+210.0,22.0,6.0,6.0,7.0,Low Energy Discharge,1.1666666666666667,0.10476190476190476,1.0,Unknown/Other,2,2.0,Low Energy Discharge,251.0
+254.0,5.2,1e-06,9.3,88.0,Low Energy Discharge,9.462365591397848,0.02047244094488189,9300000.000000002,Unknown/Other,2,2.0,Low Energy Discharge,356.500001
+385.0,28.8,50.0,82.3,171.0,Low Energy Discharge,2.077764277035237,0.0748051948051948,1.646,Unknown/Other,2,2.0,Low Energy Discharge,717.1
+843.0,133.0,12.0,168.0,385.0,Low Energy Discharge,2.2916666666666665,0.15776986951364175,14.0,High Energy Discharge (Arcing),2,2.0,Low Energy Discharge,1541.0
+208.0,7.6,27.5,9.7,14.4,Low Energy Discharge,1.4845360824742269,0.036538461538461534,0.3527272727272727,Unknown/Other,2,2.0,Low Energy Discharge,267.2
+65.5,23.3,1.0,2.1,26.0,Low Energy Discharge,12.38095238095238,0.35572519083969467,2.1,Unknown/Other,2,2.0,Low Energy Discharge,117.89999999999999
+35.0,6.0,3.0,26.0,482.0,Low Energy Discharge,18.53846153846154,0.17142857142857143,8.666666666666666,Unknown/Other,2,2.0,Low Energy Discharge,552.0
+3559.0,187.0,22.0,230.0,1140.0,Low Energy Discharge,4.956521739130435,0.05254284911491992,10.454545454545455,Unknown/Other,2,2.0,Low Energy Discharge,5138.0
+10092.0,5399.0,530.0,6500.0,37565.0,Low Energy Discharge,5.779230769230769,0.534978200554895,12.264150943396226,Unknown/Other,2,2.0,Low Energy Discharge,60086.0
+1900.0,285.0,31.0,957.0,7730.0,Low Energy Discharge,8.077324973876697,0.15,30.870967741935484,Unknown/Other,2,2.0,Low Energy Discharge,10903.0
+307.0,22.0,2.0,33.0,109.0,Low Energy Discharge,3.303030303030303,0.07166123778501629,16.5,Unknown/Other,2,2.0,Low Energy Discharge,473.0
+225.0,4.7,1e-06,8.7,89.0,Low Energy Discharge,10.229885057471265,0.02088888888888889,8700000.0,Unknown/Other,2,2.0,Low Energy Discharge,327.400001
+78.0,20.0,11.0,13.0,28.0,Low Energy Discharge,2.1538461538461537,0.2564102564102564,1.1818181818181819,Unknown/Other,2,0.0,High Energy Discharge (Arcing),150.0
+266.0,30.2,4.9,26.2,60.2,Low Energy Discharge,2.2977099236641223,0.11353383458646617,5.346938775510203,High Energy Discharge (Arcing),2,2.0,Low Energy Discharge,387.49999999999994
+645.0,86.0,13.0,110.0,317.0,Low Energy Discharge,2.881818181818182,0.13333333333333333,8.461538461538462,High Energy Discharge (Arcing),2,2.0,Low Energy Discharge,1171.0
+119.0,8.0,23.3,7.9,12.3,Low Energy Discharge,1.5569620253164558,0.06722689075630252,0.33905579399141633,Unknown/Other,2,2.0,Low Energy Discharge,170.50000000000003
+57.0,24.0,2.0,27.0,30.0,Low Energy Discharge,1.1111111111111112,0.42105263157894735,13.5,High Energy Discharge (Arcing),2,2.0,Low Energy Discharge,140.0
+14.2,4.0,1.4,1.5,9.51,Low Energy Discharge,6.34,0.28169014084507044,1.0714285714285714,Unknown/Other,2,2.0,Low Energy Discharge,30.61
+818.0,94.0,49.0,121.0,978.0,Low Energy Discharge,8.082644628099173,0.11491442542787286,2.4693877551020407,Unknown/Other,2,2.0,Low Energy Discharge,2060.0
+115.0,25.5,110.0,12.2,8.6,Low Energy Discharge,0.7049180327868853,0.2217391304347826,0.1109090909090909,Unknown/Other,2,2.0,Low Energy Discharge,271.3
+205.0,20.0,8.0,1e-06,6.0,Low Energy Discharge,6000000.0,0.0975609756097561,1.25e-07,Unknown/Other,2,2.0,Low Energy Discharge,239.000001
+101.72,27.65,7.13,16.92,53.87,Low Energy Discharge,3.1838061465721035,0.27182461659457335,2.3730715287517534,Unknown/Other,2,2.0,Low Energy Discharge,207.29000000000002
+135.0,27.0,24.0,9.0,13.0,Low Energy Discharge,1.4444444444444444,0.2,0.375,Unknown/Other,2,2.0,Low Energy Discharge,208.0
+47.5,22.9,4.5,9.6,15.3,Low Energy Discharge,1.5937500000000002,0.4821052631578947,2.1333333333333333,Unknown/Other,2,0.0,High Energy Discharge (Arcing),99.8
+6870.0,1028.0,79.0,900.0,5500.0,Low Energy Discharge,6.111111111111111,0.14963609898107716,11.39240506329114,Unknown/Other,2,2.0,Low Energy Discharge,14377.0
+119.0,8.0,20.0,1e-06,21.0,Low Energy Discharge,21000000.0,0.06722689075630252,5e-08,Unknown/Other,2,2.0,Low Energy Discharge,168.000001
+60.0,10.0,4.0,4.0,4.0,Low Energy Discharge,1.0,0.16666666666666666,1.0,Unknown/Other,2,2.0,Low Energy Discharge,82.0
+385.0,60.0,8.0,53.0,159.0,Low Energy Discharge,3.0,0.15584415584415584,6.625,High Energy Discharge (Arcing),2,2.0,Low Energy Discharge,665.0
+5.26,1e-06,1e-06,28.2,66.4,Low Energy Discharge,2.3546099290780145,1.9011406844106463e-07,28200000.0,Unknown/Other,2,2.0,Low Energy Discharge,99.86000200000001
+2510.0,202.0,139.0,208.0,1730.0,Low Energy Discharge,8.317307692307692,0.0804780876494024,1.4964028776978417,Unknown/Other,2,2.0,Low Energy Discharge,4789.0
+650.0,81.0,170.0,51.0,270.0,Low Energy Discharge,5.294117647058823,0.12461538461538461,0.3,Unknown/Other,2,2.0,Low Energy Discharge,1222.0
+153.0,18.0,9.0,1e-06,278.0,Low Energy Discharge,278000000.0,0.11764705882352941,1.1111111111111111e-07,Unknown/Other,2,2.0,Low Energy Discharge,458.000001
+1790.0,580.0,321.0,336.0,619.0,Low Energy Discharge,1.8422619047619047,0.3240223463687151,1.0467289719626167,Unknown/Other,2,2.0,Low Energy Discharge,3646.0
+256.0,8.0,37.4,15.0,21.1,Low Energy Discharge,1.4066666666666667,0.03125,0.40106951871657753,Unknown/Other,2,2.0,Low Energy Discharge,337.5
+60.0,10.0,1e-06,11.0,39.0,Low Energy Discharge,3.5454545454545454,0.16666666666666666,11000000.0,Unknown/Other,2,2.0,Low Energy Discharge,120.000001
+151.0,13.5,50.7,5.0,9.2,Low Energy Discharge,1.8399999999999999,0.08940397350993377,0.09861932938856015,Unknown/Other,2,2.0,Low Energy Discharge,229.39999999999998
+9.0,3.9,0.8,4.0,13.0,Low Energy Discharge,3.25,0.43333333333333335,5.0,Unknown/Other,2,2.0,Low Energy Discharge,30.700000000000003
+274.0,27.0,5.0,33.0,97.0,Low Energy Discharge,2.9393939393939394,0.09854014598540146,6.6,Unknown/Other,2,2.0,Low Energy Discharge,436.0
+305.0,100.0,33.0,161.0,541.0,Low Energy Discharge,3.360248447204969,0.32786885245901637,4.878787878787879,Unknown/Other,2,0.0,High Energy Discharge (Arcing),1140.0
+176.0,652.9,47.7,75.7,68.7,Low Energy Discharge,0.9075297225891678,3.7096590909090907,1.5870020964360587,Unknown/Other,2,2.0,Low Energy Discharge,1021.0000000000001
+87.0,34.0,23.0,15.0,60.0,High Energy Discharge (Arcing),4.0,0.39080459770114945,0.6521739130434783,Unknown/Other,0,0.0,High Energy Discharge (Arcing),219.0
+220.0,77.0,22.0,170.0,240.0,High Energy Discharge (Arcing),1.411764705882353,0.35,7.7272727272727275,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),729.0
+274.0,27.0,5.0,33.0,97.0,High Energy Discharge (Arcing),2.9393939393939394,0.09854014598540146,6.6,Unknown/Other,0,2.0,Low Energy Discharge,436.0
+155.0,49.0,69.3,42.0,10.7,High Energy Discharge (Arcing),0.25476190476190474,0.3161290322580645,0.6060606060606061,Unknown/Other,0,0.0,High Energy Discharge (Arcing),326.0
+137.0,67.0,7.0,53.0,104.0,High Energy Discharge (Arcing),1.9622641509433962,0.48905109489051096,7.571428571428571,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),368.0
+63.0,22.0,15.0,11.0,76.0,High Energy Discharge (Arcing),6.909090909090909,0.3492063492063492,0.7333333333333333,Unknown/Other,0,0.0,High Energy Discharge (Arcing),187.0
+292.0,346.0,32.0,313.0,196.0,High Energy Discharge (Arcing),0.6261980830670927,1.1849315068493151,9.78125,Unknown/Other,0,0.0,High Energy Discharge (Arcing),1179.0
+217.0,286.0,14.0,458.0,884.0,High Energy Discharge (Arcing),1.9301310043668123,1.3179723502304148,32.714285714285715,Unknown/Other,0,0.0,High Energy Discharge (Arcing),1859.0
+13500.0,6110.0,212.0,4510.0,4040.0,High Energy Discharge (Arcing),0.8957871396895787,0.4525925925925926,21.27358490566038,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),28372.0
+88.5,22.8,108.4,12.0,7.5,High Energy Discharge (Arcing),0.625,0.2576271186440678,0.11070110701107011,Unknown/Other,0,0.0,High Energy Discharge (Arcing),239.2
+50.0,42.0,98.0,10.0,33.0,High Energy Discharge (Arcing),3.3,0.84,0.10204081632653061,Unknown/Other,0,0.0,High Energy Discharge (Arcing),233.0
+60.0,5.0,2.0,21.0,32.0,High Energy Discharge (Arcing),1.5238095238095237,0.08333333333333333,10.5,Unknown/Other,0,0.0,High Energy Discharge (Arcing),120.0
+25.0,9.0,6.0,5.0,44.0,High Energy Discharge (Arcing),8.8,0.36,0.8333333333333334,Unknown/Other,0,0.0,High Energy Discharge (Arcing),89.0
+37.9,7.7,2.16,18.4,33.7,High Energy Discharge (Arcing),1.831521739130435,0.20316622691292877,8.518518518518517,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),99.86
+18.34,16.26,3.38,17.95,16.42,High Energy Discharge (Arcing),0.9147632311977717,0.8865866957470012,5.310650887573964,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),72.35000000000001
+1084.0,188.0,8.0,166.0,769.0,High Energy Discharge (Arcing),4.632530120481928,0.17343173431734318,20.75,Unknown/Other,0,0.0,High Energy Discharge (Arcing),2215.0
+497.0,230.0,51.0,151.0,122.0,High Energy Discharge (Arcing),0.8079470198675497,0.46277665995975853,2.9607843137254903,Unknown/Other,0,0.0,High Energy Discharge (Arcing),1051.0
+32.4,5.5,1.4,12.6,13.2,High Energy Discharge (Arcing),1.0476190476190477,0.1697530864197531,9.0,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),65.1
+19.0,12.0,2.0,8.0,63.0,High Energy Discharge (Arcing),7.875,0.631578947368421,4.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),104.0
+210.0,43.0,12.0,102.0,187.0,High Energy Discharge (Arcing),1.8333333333333333,0.20476190476190476,8.5,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),554.0
+26.0,68.0,93.0,31.0,59.0,High Energy Discharge (Arcing),1.903225806451613,2.6153846153846154,0.3333333333333333,Unknown/Other,0,0.0,High Energy Discharge (Arcing),277.0
+114.0,41.0,27.0,15.0,42.0,High Energy Discharge (Arcing),2.8,0.35964912280701755,0.5555555555555556,Unknown/Other,0,0.0,High Energy Discharge (Arcing),239.0
+7150.0,1440.0,97.0,1210.0,1760.0,High Energy Discharge (Arcing),1.4545454545454546,0.2013986013986014,12.474226804123711,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),11657.0
+8.0,1e-06,1e-06,43.0,101.0,High Energy Discharge (Arcing),2.3488372093023258,1.25e-07,43000000.0,Unknown/Other,0,2.0,Low Energy Discharge,152.000002
+1607.0,615.0,80.0,916.0,1294.0,High Energy Discharge (Arcing),1.4126637554585153,0.3827006845052894,11.45,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),4512.0
+46.0,20.0,14.0,10.0,42.0,High Energy Discharge (Arcing),4.2,0.43478260869565216,0.7142857142857143,Unknown/Other,0,0.0,High Energy Discharge (Arcing),132.0
+1027.0,185.0,17.0,271.0,399.0,High Energy Discharge (Arcing),1.4723247232472325,0.1801363193768257,15.941176470588236,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),1899.0
+37.0,11.8,15.5,43.6,83.3,High Energy Discharge (Arcing),1.9105504587155961,0.31891891891891894,2.8129032258064517,Unknown/Other,0,0.0,High Energy Discharge (Arcing),191.2
+200.0,48.0,14.0,117.0,131.0,High Energy Discharge (Arcing),1.1196581196581197,0.24,8.357142857142858,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),510.0
+392.0,153.0,82.0,45.0,236.0,High Energy Discharge (Arcing),5.2444444444444445,0.3903061224489796,0.5487804878048781,Unknown/Other,0,0.0,High Energy Discharge (Arcing),908.0
+12.4,6.5,15.3,69.0,15.0,High Energy Discharge (Arcing),0.21739130434782608,0.5241935483870968,4.509803921568627,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),118.2
+71.0,151.0,9.0,89.0,412.0,High Energy Discharge (Arcing),4.629213483146067,2.1267605633802815,9.88888888888889,Unknown/Other,0,0.0,High Energy Discharge (Arcing),732.0
+127.0,24.0,1e-06,32.0,81.0,High Energy Discharge (Arcing),2.53125,0.1889763779527559,32000000.0,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),264.000001
+800.0,160.0,23.0,260.0,600.0,High Energy Discharge (Arcing),2.3076923076923075,0.2,11.304347826086957,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),1843.0
+212.0,38.0,15.0,47.0,78.0,High Energy Discharge (Arcing),1.6595744680851063,0.1792452830188679,3.1333333333333333,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),390.0
+8200.0,3790.0,250.0,4620.0,277.0,High Energy Discharge (Arcing),0.05995670995670996,0.46219512195121953,18.48,Unknown/Other,0,0.0,High Energy Discharge (Arcing),17137.0
+2800.0,2800.0,234.0,3500.0,3600.0,High Energy Discharge (Arcing),1.0285714285714285,1.0,14.957264957264957,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),12934.0
+195.7,58.0,16.4,91.6,96.9,High Energy Discharge (Arcing),1.0578602620087338,0.2963719979560552,5.585365853658537,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),458.5999999999999
+235.0,39.45,9.63,210.0,257.0,High Energy Discharge (Arcing),1.223809523809524,0.16787234042553192,21.806853582554517,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),751.0799999999999
+441.0,207.0,43.0,224.0,261.0,High Energy Discharge (Arcing),1.1651785714285714,0.46938775510204084,5.209302325581396,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),1176.0
+110.0,62.0,90.0,140.0,250.0,High Energy Discharge (Arcing),1.7857142857142858,0.5636363636363636,1.5555555555555556,Unknown/Other,0,0.0,High Energy Discharge (Arcing),652.0
+88.0,21.8,79.2,41.2,41.5,High Energy Discharge (Arcing),1.0072815533980581,0.24772727272727274,0.5202020202020202,Unknown/Other,0,2.0,Low Energy Discharge,271.7
+531.0,111.9,22.7,122.5,169.0,High Energy Discharge (Arcing),1.379591836734694,0.21073446327683618,5.39647577092511,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),957.1
+9474.0,4066.0,353.0,6552.0,12997.0,High Energy Discharge (Arcing),1.9836691086691087,0.4291745830694532,18.560906515580736,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),33442.0
+152.0,116.0,7.0,131.0,414.0,High Energy Discharge (Arcing),3.1603053435114505,0.7631578947368421,18.714285714285715,Unknown/Other,0,0.0,High Energy Discharge (Arcing),820.0
+150.0,130.0,9.0,55.0,30.0,High Energy Discharge (Arcing),0.5454545454545454,0.8666666666666667,6.111111111111111,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),374.0
+75.0,15.0,7.0,14.0,250.0,High Energy Discharge (Arcing),17.857142857142858,0.2,2.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),361.0
+43.0,19.0,3.0,1e-06,40.0,High Energy Discharge (Arcing),40000000.0,0.4418604651162791,3.333333333333333e-07,Unknown/Other,0,0.0,High Energy Discharge (Arcing),105.000001
+1114.0,719.0,188.0,1217.0,699.0,High Energy Discharge (Arcing),0.5743631881676253,0.6454219030520646,6.473404255319149,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),3937.0
+35.0,11.0,1e-06,7.0,146.0,High Energy Discharge (Arcing),20.857142857142858,0.3142857142857143,7000000.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),199.000001
+629.0,402.0,16.0,298.0,1127.0,High Energy Discharge (Arcing),3.7818791946308723,0.6391096979332274,18.625,Unknown/Other,0,0.0,High Energy Discharge (Arcing),2472.0
+7940.0,2000.0,355.0,3120.0,5390.0,High Energy Discharge (Arcing),1.7275641025641026,0.2518891687657431,8.788732394366198,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),18805.0
+7020.0,1850.0,1e-06,2960.0,4410.0,High Energy Discharge (Arcing),1.489864864864865,0.26353276353276356,2960000000.0,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),16240.000001
+151.0,51.0,16.0,12.0,19.0,High Energy Discharge (Arcing),1.5833333333333333,0.33774834437086093,0.75,Unknown/Other,0,0.0,High Energy Discharge (Arcing),249.0
+2.0,41.0,133.0,9.0,21.0,High Energy Discharge (Arcing),2.3333333333333335,20.5,0.06766917293233082,Unknown/Other,0,0.0,High Energy Discharge (Arcing),206.0
+75.5,30.2,2.33,30.3,18.2,High Energy Discharge (Arcing),0.6006600660066006,0.39999999999999997,13.004291845493562,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),156.53
+17.0,42.0,192.0,12.0,20.0,High Energy Discharge (Arcing),1.6666666666666667,2.4705882352941178,0.0625,Unknown/Other,0,0.0,High Energy Discharge (Arcing),283.0
+156.0,55.0,103.0,13.0,16.0,High Energy Discharge (Arcing),1.2307692307692308,0.3525641025641026,0.1262135922330097,Unknown/Other,0,0.0,High Energy Discharge (Arcing),343.0
+21.0,34.0,5.0,47.0,62.0,High Energy Discharge (Arcing),1.3191489361702127,1.619047619047619,9.4,Unknown/Other,0,0.0,High Energy Discharge (Arcing),169.0
+64.0,18.0,1.0,4.0,122.0,High Energy Discharge (Arcing),30.5,0.28125,4.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),209.0
+25.0,28.0,27.0,15.0,80.0,High Energy Discharge (Arcing),5.333333333333333,1.12,0.5555555555555556,Unknown/Other,0,0.0,High Energy Discharge (Arcing),175.0
+2770.0,660.0,54.0,712.0,763.0,High Energy Discharge (Arcing),1.071629213483146,0.23826714801444043,13.185185185185185,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),4959.0
+4419.0,3564.0,668.0,2861.0,2025.0,High Energy Discharge (Arcing),0.7077944774554351,0.8065173116089613,4.282934131736527,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),13537.0
+1500.0,395.0,28.0,395.0,323.0,High Energy Discharge (Arcing),0.8177215189873418,0.2633333333333333,14.107142857142858,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),2641.0
+10.0,15.0,1e-06,1e-06,35.0,High Energy Discharge (Arcing),35000000.0,1.5,1.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),60.000002
+1570.0,1110.0,175.0,1780.0,1830.0,High Energy Discharge (Arcing),1.0280898876404494,0.7070063694267515,10.17142857142857,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),6465.0
+22.0,14.0,19.0,6.0,56.0,High Energy Discharge (Arcing),9.333333333333334,0.6363636363636364,0.3157894736842105,Unknown/Other,0,0.0,High Energy Discharge (Arcing),117.0
+1249.0,370.0,56.0,606.0,1371.0,High Energy Discharge (Arcing),2.262376237623762,0.2962369895916733,10.821428571428571,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),3652.0
+1900.0,530.0,35.0,383.0,434.0,High Energy Discharge (Arcing),1.133159268929504,0.2789473684210526,10.942857142857143,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),3282.0
+5900.0,1500.0,68.0,1200.0,2300.0,High Energy Discharge (Arcing),1.9166666666666667,0.2542372881355932,17.647058823529413,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),10968.0
+3700.0,1690.0,128.0,2810.0,3270.0,High Energy Discharge (Arcing),1.1637010676156583,0.45675675675675675,21.953125,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),11598.0
+75.0,5.0,31.0,69.0,36.0,High Energy Discharge (Arcing),0.5217391304347826,0.06666666666666667,2.225806451612903,Unknown/Other,0,2.0,Low Energy Discharge,216.0
+323.0,115.0,7.0,130.0,446.0,High Energy Discharge (Arcing),3.4307692307692306,0.3560371517027864,18.571428571428573,Unknown/Other,0,0.0,High Energy Discharge (Arcing),1021.0
+127.0,107.0,11.0,154.0,224.0,High Energy Discharge (Arcing),1.4545454545454546,0.84251968503937,14.0,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),623.0
+3090.0,5020.0,323.0,3800.0,2540.0,High Energy Discharge (Arcing),0.6684210526315789,1.6245954692556634,11.764705882352942,Unknown/Other,0,0.0,High Energy Discharge (Arcing),14773.0
+48.0,20.0,69.0,41.0,31.0,High Energy Discharge (Arcing),0.7560975609756098,0.4166666666666667,0.5942028985507246,Unknown/Other,0,0.0,High Energy Discharge (Arcing),209.0
+60.0,5.0,2.0,21.0,21.0,High Energy Discharge (Arcing),1.0,0.08333333333333333,10.5,Unknown/Other,0,0.0,High Energy Discharge (Arcing),109.0
+30.0,14.0,1.0,9.0,43.0,High Energy Discharge (Arcing),4.777777777777778,0.4666666666666667,9.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),97.0
+7020.0,1850.0,1e-06,2960.0,4410.0,High Energy Discharge (Arcing),1.489864864864865,0.26353276353276356,2960000000.0,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),16240.000001
+1170.0,255.0,18.0,312.0,325.0,High Energy Discharge (Arcing),1.0416666666666667,0.21794871794871795,17.333333333333332,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),2080.0
+858.0,1324.0,208.0,2793.0,7672.0,High Energy Discharge (Arcing),2.7468671679197993,1.543123543123543,13.427884615384615,Unknown/Other,0,0.0,High Energy Discharge (Arcing),12855.0
+14.3,92.6,83.9,16.7,26.8,High Energy Discharge (Arcing),1.6047904191616769,6.475524475524475,0.19904648390941596,Unknown/Other,0,0.0,High Energy Discharge (Arcing),234.3
+57.0,148.0,197.0,72.0,42.0,High Energy Discharge (Arcing),0.5833333333333334,2.5964912280701755,0.36548223350253806,Unknown/Other,0,0.0,High Energy Discharge (Arcing),516.0
+260.0,215.0,35.0,334.0,277.0,High Energy Discharge (Arcing),0.8293413173652695,0.8269230769230769,9.542857142857143,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),1121.0
+215.0,84.8,87.7,1002.0,212.0,High Energy Discharge (Arcing),0.21157684630738524,0.3944186046511628,11.425313568985176,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),1601.5
+440.0,89.0,19.0,304.0,757.0,High Energy Discharge (Arcing),2.4901315789473686,0.20227272727272727,16.0,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),1609.0
+77.0,36.0,27.0,18.0,76.0,High Energy Discharge (Arcing),4.222222222222222,0.4675324675324675,0.6666666666666666,Unknown/Other,0,0.0,High Energy Discharge (Arcing),234.0
+60.0,85.0,5.0,67.0,227.0,High Energy Discharge (Arcing),3.388059701492537,1.4166666666666667,13.4,Unknown/Other,0,0.0,High Energy Discharge (Arcing),444.0
+594.0,230.0,44.0,130.0,102.0,High Energy Discharge (Arcing),0.7846153846153846,0.3872053872053872,2.9545454545454546,Unknown/Other,0,0.0,High Energy Discharge (Arcing),1100.0
+1820.0,405.0,35.0,365.0,634.0,High Energy Discharge (Arcing),1.736986301369863,0.22252747252747251,10.428571428571429,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),3259.0
+123.0,50.7,9.0,62.0,65.9,High Energy Discharge (Arcing),1.0629032258064517,0.41219512195121955,6.888888888888889,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),310.6
+90.0,28.0,8.0,31.0,32.0,High Energy Discharge (Arcing),1.032258064516129,0.3111111111111111,3.875,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),189.0
+26.6,4.0,1e-06,8.0,50.0,High Energy Discharge (Arcing),6.25,0.15037593984962405,8000000.0,Unknown/Other,0,2.0,Low Energy Discharge,88.600001
+46.0,21.0,1.0,11.0,93.0,High Energy Discharge (Arcing),8.454545454545455,0.45652173913043476,11.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),172.0
+13.0,3.0,1.0,3.0,6.0,High Energy Discharge (Arcing),2.0,0.23076923076923078,3.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),26.0
+305.0,85.0,25.0,197.0,130.0,High Energy Discharge (Arcing),0.6598984771573604,0.2786885245901639,7.88,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),742.0
+75.0,15.0,7.0,14.0,26.0,High Energy Discharge (Arcing),1.8571428571428572,0.2,2.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),137.0
+307.0,22.0,2.0,33.0,109.0,High Energy Discharge (Arcing),3.303030303030303,0.07166123778501629,16.5,Unknown/Other,0,2.0,Low Energy Discharge,473.0
+1e-06,21.0,1e-06,1e-06,40.0,High Energy Discharge (Arcing),40000000.0,21000000.0,1.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),61.00000300000001
+88.0,45.0,57.0,15.0,39.0,High Energy Discharge (Arcing),2.6,0.5113636363636364,0.2631578947368421,Unknown/Other,0,0.0,High Energy Discharge (Arcing),244.0
+80.0,28.0,4.0,15.0,107.0,High Energy Discharge (Arcing),7.133333333333334,0.35,3.75,Unknown/Other,0,0.0,High Energy Discharge (Arcing),234.0
+755.0,229.0,32.0,404.0,460.0,High Energy Discharge (Arcing),1.1386138613861385,0.3033112582781457,12.625,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),1880.0
+530.0,345.0,85.0,266.0,250.0,High Energy Discharge (Arcing),0.9398496240601504,0.6509433962264151,3.1294117647058823,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),1476.0
+310.0,230.0,54.0,610.0,760.0,High Energy Discharge (Arcing),1.2459016393442623,0.7419354838709677,11.296296296296296,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),1964.0
+620.0,325.0,38.0,181.0,244.0,High Energy Discharge (Arcing),1.3480662983425415,0.5241935483870968,4.7631578947368425,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),1408.0
+4906.0,8784.0,1404.0,9924.0,9671.0,High Energy Discharge (Arcing),0.9745062474808545,1.7904606604158173,7.068376068376068,Unknown/Other,0,0.0,High Energy Discharge (Arcing),34689.0
+85.0,98.0,315.0,30.0,1e-06,Low Temperature Overheating,3.3333333333333334e-08,1.1529411764705881,0.09523809523809523,Unknown/Other,3,3.0,Low Temperature Overheating,528.000001
+12.0,28.0,102.0,3.0,1e-06,Low Temperature Overheating,3.333333333333333e-07,2.3333333333333335,0.029411764705882353,Unknown/Other,3,3.0,Low Temperature Overheating,145.000001
+36.0,167.0,230.0,18.0,1e-06,Low Temperature Overheating,5.5555555555555555e-08,4.638888888888889,0.0782608695652174,Unknown/Other,3,3.0,Low Temperature Overheating,451.000001
+24.0,47.0,113.0,10.0,1e-06,Low Temperature Overheating,1e-07,1.9583333333333333,0.08849557522123894,Unknown/Other,3,3.0,Low Temperature Overheating,194.000001
+54.9,8.8,80.0,2.5,1e-06,Low Temperature Overheating,4e-07,0.1602914389799636,0.03125,Normal,3,3.0,Low Temperature Overheating,146.200001
+112.0,68.0,136.0,9.0,1e-06,Low Temperature Overheating,1.1111111111111111e-07,0.6071428571428571,0.0661764705882353,Normal,3,3.0,Low Temperature Overheating,325.000001
+7.0,15.0,78.0,58.0,1e-06,Low Temperature Overheating,1.7241379310344825e-08,2.142857142857143,0.7435897435897436,Unknown/Other,3,3.0,Low Temperature Overheating,158.000001
+219.0,44.0,3.0,3.0,1e-06,Low Temperature Overheating,3.333333333333333e-07,0.2009132420091324,1.0,Low Temperature Overheating,3,3.0,Low Temperature Overheating,269.000001
+39.4,65.2,103.9,8.1,1e-06,Low Temperature Overheating,1.234567901234568e-07,1.6548223350253808,0.07795957651588065,Unknown/Other,3,3.0,Low Temperature Overheating,216.600001
+95.0,110.0,160.0,50.0,1e-06,Low Temperature Overheating,2e-08,1.1578947368421053,0.3125,Unknown/Other,3,3.0,Low Temperature Overheating,415.000001
+1e-06,153.0,395.0,11.7,1e-06,Low Temperature Overheating,8.547008547008547e-08,153000000.0,0.02962025316455696,Unknown/Other,3,3.0,Low Temperature Overheating,559.700002
+121.0,73.0,179.0,11.0,1e-06,Low Temperature Overheating,9.09090909090909e-08,0.6033057851239669,0.061452513966480445,Normal,3,3.0,Low Temperature Overheating,384.000001
+74.0,173.0,263.0,33.0,1e-06,Low Temperature Overheating,3.0303030303030305e-08,2.3378378378378377,0.12547528517110265,Unknown/Other,3,3.0,Low Temperature Overheating,543.000001
+13.0,59.0,117.0,44.0,1e-06,Low Temperature Overheating,2.2727272727272725e-08,4.538461538461538,0.37606837606837606,Unknown/Other,3,3.0,Low Temperature Overheating,233.000001
+13.0,138.0,83.0,16.0,1e-06,Low Temperature Overheating,6.25e-08,10.615384615384615,0.1927710843373494,Unknown/Other,3,3.0,Low Temperature Overheating,250.000001
+36.0,21.0,65.0,2.0,1e-06,Low Temperature Overheating,5e-07,0.5833333333333334,0.03076923076923077,Normal,3,3.0,Low Temperature Overheating,124.000001
+9.0,56.0,135.0,7.0,1.0,Low Temperature Overheating,0.14285714285714285,6.222222222222222,0.05185185185185185,Unknown/Other,3,3.0,Low Temperature Overheating,208.0
+1e-06,187.0,609.0,13.0,1e-06,Low Temperature Overheating,7.692307692307692e-08,187000000.0,0.021346469622331693,Unknown/Other,3,3.0,Low Temperature Overheating,809.000002
+820.0,1740.0,951.0,867.0,128.0,Low Temperature Overheating,0.14763552479815456,2.1219512195121952,0.9116719242902208,Unknown/Other,3,3.0,Low Temperature Overheating,4506.0
+10.0,56.0,72.0,70.0,1e-06,Low Temperature Overheating,1.4285714285714284e-08,5.6,0.9722222222222222,Unknown/Other,3,3.0,Low Temperature Overheating,208.000001
+12.0,18.0,4.0,4.0,1e-06,Low Temperature Overheating,2.5e-07,1.5,1.0,Medium Temperature Overheating (<700C),3,3.0,Low Temperature Overheating,38.000001
+10.0,26.0,147.0,6.0,1e-06,Low Temperature Overheating,1.6666666666666665e-07,2.6,0.04081632653061224,Unknown/Other,3,3.0,Low Temperature Overheating,189.000001
+143.2,123.0,38.0,75.0,1e-06,Low Temperature Overheating,1.3333333333333332e-08,0.8589385474860336,1.9736842105263157,Low Temperature Overheating,3,3.0,Low Temperature Overheating,379.200001
+18.0,30.0,146.0,8.0,1e-06,Low Temperature Overheating,1.25e-07,1.6666666666666667,0.0547945205479452,Unknown/Other,3,3.0,Low Temperature Overheating,202.000001
+27.0,28.0,136.0,8.0,1e-06,Low Temperature Overheating,1.25e-07,1.037037037037037,0.058823529411764705,Unknown/Other,3,3.0,Low Temperature Overheating,199.000001
+34.0,8.6,70.3,3.1,1e-06,Low Temperature Overheating,3.225806451612903e-07,0.2529411764705882,0.044096728307254626,Normal,3,3.0,Low Temperature Overheating,116.000001
+113.0,137.0,173.0,34.0,1e-06,Low Temperature Overheating,2.941176470588235e-08,1.2123893805309736,0.19653179190751446,Unknown/Other,3,3.0,Low Temperature Overheating,457.000001
+45.0,125.0,111.0,25.0,1e-06,Low Temperature Overheating,4e-08,2.7777777777777777,0.22522522522522523,Unknown/Other,3,3.0,Low Temperature Overheating,306.000001
+78.0,66.0,62.0,2.6,1e-06,Low Temperature Overheating,3.846153846153846e-07,0.8461538461538461,0.041935483870967745,Normal,3,3.0,Low Temperature Overheating,208.600001
+55.0,22.0,358.0,2.6,1e-06,Low Temperature Overheating,3.846153846153846e-07,0.4,0.007262569832402235,Normal,3,3.0,Low Temperature Overheating,437.600001
+10.0,63.0,176.0,35.0,1e-06,Low Temperature Overheating,2.857142857142857e-08,6.3,0.19886363636363635,Unknown/Other,3,3.0,Low Temperature Overheating,284.000001
+11.0,271.0,465.0,32.0,1e-06,Low Temperature Overheating,3.125e-08,24.636363636363637,0.06881720430107527,Unknown/Other,3,3.0,Low Temperature Overheating,779.000001
+34.0,30.0,34.0,2.5,1e-06,Low Temperature Overheating,4e-07,0.8823529411764706,0.07352941176470588,Normal,3,3.0,Low Temperature Overheating,100.500001
+187.0,86.0,155.0,21.0,6.0,Low Temperature Overheating,0.2857142857142857,0.45989304812834225,0.13548387096774195,Unknown/Other,3,3.0,Low Temperature Overheating,455.0
+93.5,131.9,39.0,11.7,1e-06,Low Temperature Overheating,8.547008547008547e-08,1.4106951871657754,0.3,Unknown/Other,3,3.0,Low Temperature Overheating,276.10000099999996
+48.0,40.0,11.0,0.5,1e-06,Low Temperature Overheating,2e-06,0.8333333333333334,0.045454545454545456,Normal,3,3.0,Low Temperature Overheating,99.500001
+124.0,166.0,87.0,59.0,1e-06,Low Temperature Overheating,1.6949152542372882e-08,1.3387096774193548,0.6781609195402298,Unknown/Other,3,3.0,Low Temperature Overheating,436.000001
+8.0,16.0,88.0,7.0,1e-06,Low Temperature Overheating,1.4285714285714285e-07,2.0,0.07954545454545454,Unknown/Other,3,3.0,Low Temperature Overheating,119.000001
+320.0,131.0,187.0,127.0,1e-06,Low Temperature Overheating,7.874015748031496e-09,0.409375,0.679144385026738,Normal,3,3.0,Low Temperature Overheating,765.000001
+92.0,27.0,67.0,7.0,1e-06,Low Temperature Overheating,1.4285714285714285e-07,0.29347826086956524,0.1044776119402985,Normal,3,3.0,Low Temperature Overheating,193.000001
+900.0,9180.0,1e-06,900.0,22.0,Low Temperature Overheating,0.024444444444444446,10.2,900000000.0,High Temperature Overheating (>700C),3,3.0,Low Temperature Overheating,11002.000001
+6.0,197.0,476.9,16.9,1e-06,Low Temperature Overheating,5.9171597633136094e-08,32.833333333333336,0.03543719857412456,Unknown/Other,3,3.0,Low Temperature Overheating,696.800001
+1e-06,215.0,555.0,18.4,1e-06,Low Temperature Overheating,5.4347826086956524e-08,215000000.0,0.03315315315315315,Unknown/Other,3,3.0,Low Temperature Overheating,788.400002
+78.0,66.0,283.0,2.6,1e-06,Low Temperature Overheating,3.846153846153846e-07,0.8461538461538461,0.009187279151943463,Normal,3,3.0,Low Temperature Overheating,429.600001
+130.0,140.0,24.0,120.0,1e-06,Low Temperature Overheating,8.333333333333334e-09,1.0769230769230769,5.0,High Temperature Overheating (>700C),3,3.0,Low Temperature Overheating,414.000001
+10.0,24.0,80.0,5.0,1e-06,Low Temperature Overheating,2e-07,2.4,0.0625,Unknown/Other,3,3.0,Low Temperature Overheating,119.000001
+1e-06,224.0,1e-06,45.0,1e-06,Low Temperature Overheating,2.222222222222222e-08,224000000.0,45000000.0,High Temperature Overheating (>700C),3,3.0,Low Temperature Overheating,269.000003
+19.0,48.0,76.0,18.0,1e-06,Low Temperature Overheating,5.5555555555555555e-08,2.526315789473684,0.23684210526315788,Unknown/Other,3,3.0,Low Temperature Overheating,161.000001
+6.0,38.0,93.0,32.0,1e-06,Low Temperature Overheating,3.125e-08,6.333333333333333,0.34408602150537637,Unknown/Other,3,3.0,Low Temperature Overheating,169.000001
+11.0,46.0,155.0,18.0,1e-06,Low Temperature Overheating,5.5555555555555555e-08,4.181818181818182,0.11612903225806452,Unknown/Other,3,3.0,Low Temperature Overheating,230.000001
+27.0,49.0,192.0,9.0,1e-06,Low Temperature Overheating,1.1111111111111111e-07,1.8148148148148149,0.046875,Unknown/Other,3,3.0,Low Temperature Overheating,277.000001
+103.0,74.0,80.0,9.0,1e-06,Low Temperature Overheating,1.1111111111111111e-07,0.7184466019417476,0.1125,Normal,3,3.0,Low Temperature Overheating,266.000001
+31.2,8.9,119.0,4.4,1e-06,Low Temperature Overheating,2.2727272727272723e-07,0.2852564102564103,0.03697478991596639,Normal,3,3.0,Low Temperature Overheating,163.500001
+1e-06,33.7,136.0,11.4,1e-06,Low Temperature Overheating,8.771929824561403e-08,33700000.00000001,0.08382352941176471,Unknown/Other,3,3.0,Low Temperature Overheating,181.100002
+6.0,3.0,0.8,0.7,1e-06,Low Temperature Overheating,1.4285714285714286e-06,0.5,0.8749999999999999,Normal,3,3.0,Low Temperature Overheating,10.500001
+181.0,262.0,41.0,28.0,1e-06,Low Temperature Overheating,3.571428571428571e-08,1.4475138121546962,0.6829268292682927,Unknown/Other,3,3.0,Low Temperature Overheating,512.000001
+14.0,44.0,124.0,7.0,1.0,Low Temperature Overheating,0.14285714285714285,3.142857142857143,0.056451612903225805,Unknown/Other,3,3.0,Low Temperature Overheating,190.0
+1.0,27.0,49.0,4.0,1.0,Low Temperature Overheating,0.25,27.0,0.08163265306122448,Unknown/Other,3,3.0,Low Temperature Overheating,82.0
+50.0,3.0,1.0,1e-06,1e-06,Low Temperature Overheating,1.0,0.06,1e-06,Unknown/Other,3,3.0,Low Temperature Overheating,54.000001999999995
+21.0,14.0,191.0,90.0,1e-06,Low Temperature Overheating,1.111111111111111e-08,0.6666666666666666,0.4712041884816754,Normal,3,3.0,Low Temperature Overheating,316.000001
+160.0,130.0,33.0,96.0,1e-06,Low Temperature Overheating,1.0416666666666666e-08,0.8125,2.909090909090909,Low Temperature Overheating,3,3.0,Low Temperature Overheating,419.000001
+16.0,68.0,157.0,19.0,1e-06,Low Temperature Overheating,5.2631578947368416e-08,4.25,0.12101910828025478,Unknown/Other,3,3.0,Low Temperature Overheating,260.000001
+122.0,161.0,271.0,35.0,1e-06,Low Temperature Overheating,2.857142857142857e-08,1.319672131147541,0.12915129151291513,Unknown/Other,3,3.0,Low Temperature Overheating,589.000001
+4.0,99.0,82.0,4.2,0.1,Low Temperature Overheating,0.023809523809523808,24.75,0.051219512195121955,Unknown/Other,3,3.0,Low Temperature Overheating,189.29999999999998
+157.0,46.0,76.0,12.0,1e-06,Low Temperature Overheating,8.333333333333333e-08,0.2929936305732484,0.15789473684210525,Normal,3,3.0,Low Temperature Overheating,291.000001
+38.0,38.0,296.0,14.0,1e-06,Low Temperature Overheating,7.142857142857142e-08,1.0,0.0472972972972973,Normal,3,3.0,Low Temperature Overheating,386.000001
+24.7,20.4,117.0,71.0,6.8,Low Temperature Overheating,0.09577464788732394,0.825910931174089,0.6068376068376068,Normal,3,3.0,Low Temperature Overheating,239.9
+74.8,30.1,82.3,13.6,1e-06,Low Temperature Overheating,7.352941176470588e-08,0.4024064171122995,0.1652490886998785,Normal,3,3.0,Low Temperature Overheating,200.80000099999998
+33.0,29.0,9.0,12.0,1e-06,Low Temperature Overheating,8.333333333333333e-08,0.8787878787878788,1.3333333333333333,Low Temperature Overheating,3,3.0,Low Temperature Overheating,83.000001
+74.0,100.0,85.0,17.0,1e-06,Low Temperature Overheating,5.88235294117647e-08,1.3513513513513513,0.2,Unknown/Other,3,3.0,Low Temperature Overheating,276.000001
+5.0,14.0,234.0,5.0,1e-06,Low Temperature Overheating,2e-07,2.8,0.021367521367521368,Unknown/Other,3,3.0,Low Temperature Overheating,258.000001
+181.0,162.0,70.0,132.0,1e-06,Low Temperature Overheating,7.575757575757576e-09,0.8950276243093923,1.8857142857142857,Low Temperature Overheating,3,3.0,Low Temperature Overheating,545.000001
+36.0,94.0,78.0,13.0,2.0,Low Temperature Overheating,0.15384615384615385,2.611111111111111,0.16666666666666666,Unknown/Other,3,3.0,Low Temperature Overheating,223.0
+505.57,475.35,242.3,524.45,3.29,Low Temperature Overheating,0.006273238630946706,0.9402258836560714,2.1644655385885265,Low Temperature Overheating,3,3.0,Low Temperature Overheating,1750.96
+25.0,49.0,42.0,58.0,1e-06,Medium Temperature Overheating,1.7241379310344825e-08,1.96,1.380952380952381,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,174.000001
+14.0,15.0,42.0,73.0,1e-06,Medium Temperature Overheating,1.3698630136986301e-08,1.0714285714285714,1.7380952380952381,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,144.000001
+180.0,175.0,75.0,50.0,4.0,Medium Temperature Overheating,0.08,0.9722222222222222,0.6666666666666666,Normal,4,4.0,Medium Temperature Overheating,484.0
+59.0,119.0,36.0,70.0,1e-06,Medium Temperature Overheating,1.4285714285714284e-08,2.016949152542373,1.9444444444444444,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,284.000001
+185.0,302.0,27.0,33.0,1e-06,Medium Temperature Overheating,3.0303030303030305e-08,1.6324324324324324,1.2222222222222223,Medium Temperature Overheating (<700C),4,3.0,Low Temperature Overheating,547.000001
+1270.0,3450.0,520.0,1390.0,8.0,Medium Temperature Overheating,0.0057553956834532375,2.716535433070866,2.673076923076923,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,6638.0
+119.0,670.0,286.0,934.0,19.0,Medium Temperature Overheating,0.020342612419700215,5.630252100840337,3.265734265734266,High Temperature Overheating (>700C),4,4.0,Medium Temperature Overheating,2028.0
+72.0,442.0,221.0,461.0,0.7,Medium Temperature Overheating,0.0015184381778741865,6.138888888888889,2.085972850678733,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,1196.7
+16.0,98.0,35.0,64.0,1e-06,Medium Temperature Overheating,1.5625e-08,6.125,1.8285714285714285,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,213.000001
+41.0,65.0,22.0,58.0,1e-06,Medium Temperature Overheating,1.7241379310344825e-08,1.5853658536585367,2.6363636363636362,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,186.000001
+110.6,458.8,242.6,406.4,1e-06,Medium Temperature Overheating,2.4606299212598425e-09,4.1482820976491865,1.6751854905193735,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,1218.4000010000002
+200.0,700.0,250.0,740.0,1.0,Medium Temperature Overheating,0.0013513513513513514,3.5,2.96,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,1891.0
+15.0,159.0,29.0,87.0,1e-06,Medium Temperature Overheating,1.1494252873563218e-08,10.6,3.0,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,290.000001
+18.0,63.0,20.0,51.0,1e-06,Medium Temperature Overheating,1.9607843137254902e-08,3.5,2.55,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,152.000001
+54.0,143.0,23.0,101.0,1e-06,Medium Temperature Overheating,9.9009900990099e-09,2.6481481481481484,4.391304347826087,High Temperature Overheating (>700C),4,4.0,Medium Temperature Overheating,321.000001
+43.0,116.0,65.0,139.0,1e-06,Medium Temperature Overheating,7.194244604316546e-09,2.697674418604651,2.1384615384615384,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,363.000001
+73.0,177.0,37.0,52.0,1e-06,Medium Temperature Overheating,1.923076923076923e-08,2.4246575342465753,1.4054054054054055,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,339.000001
+57.0,141.0,38.0,51.0,1e-06,Medium Temperature Overheating,1.9607843137254902e-08,2.473684210526316,1.3421052631578947,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,287.000001
+15.0,139.0,160.0,343.0,1e-06,Medium Temperature Overheating,2.9154518950437316e-09,9.266666666666667,2.14375,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,657.000001
+23.51,61.33,45.21,98.03,1.01,Medium Temperature Overheating,0.01030296847903703,2.608677158655891,2.168325591683256,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,229.09
+2.0,123.0,7.0,18.0,1e-06,Medium Temperature Overheating,5.5555555555555555e-08,61.5,2.5714285714285716,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,150.000001
+24.0,80.0,258.0,741.0,6.0,Medium Temperature Overheating,0.008097165991902834,3.3333333333333335,2.872093023255814,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,1109.0
+613.0,3240.0,1432.0,2788.0,1e-06,Medium Temperature Overheating,3.586800573888092e-10,5.285481239804241,1.946927374301676,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,8073.000001
+109.0,226.0,68.0,192.0,1e-06,Medium Temperature Overheating,5.208333333333333e-09,2.073394495412844,2.823529411764706,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,595.000001
+35.0,283.0,121.0,222.0,1e-06,Medium Temperature Overheating,4.504504504504504e-09,8.085714285714285,1.834710743801653,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,661.000001
+2.0,5.0,81.0,172.0,1e-06,Medium Temperature Overheating,5.813953488372093e-09,2.5,2.123456790123457,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,260.000001
+30.4,117.0,44.2,138.0,0.1,Medium Temperature Overheating,0.0007246376811594203,3.848684210526316,3.1221719457013575,High Temperature Overheating (>700C),4,4.0,Medium Temperature Overheating,329.70000000000005
+1e-06,6.0,52.0,67.0,1e-06,Medium Temperature Overheating,1.4925373134328357e-08,6000000.0,1.2884615384615385,Medium Temperature Overheating (<700C),4,3.0,Low Temperature Overheating,125.000002
+2004.0,9739.0,2750.0,5113.0,1e-06,Medium Temperature Overheating,1.9557989438685703e-10,4.8597804391217565,1.8592727272727272,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,19606.000001
+31.0,63.0,246.0,714.0,7.0,Medium Temperature Overheating,0.00980392156862745,2.032258064516129,2.902439024390244,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,1061.0
+26.0,398.0,85.0,319.0,1e-06,Medium Temperature Overheating,3.134796238244514e-09,15.307692307692308,3.7529411764705882,High Temperature Overheating (>700C),4,4.0,Medium Temperature Overheating,828.000001
+152.0,32.0,28.0,55.0,1e-06,Medium Temperature Overheating,1.818181818181818e-08,0.21052631578947367,1.9642857142857142,Low Temperature Overheating,4,4.0,Medium Temperature Overheating,267.000001
+300.0,490.0,180.0,360.0,95.0,Medium Temperature Overheating,0.2638888888888889,1.6333333333333333,2.0,Unknown/Other,4,4.0,Medium Temperature Overheating,1425.0
+960.0,4000.0,1290.0,1560.0,6.0,Medium Temperature Overheating,0.0038461538461538464,4.166666666666667,1.2093023255813953,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,7816.0
+0.67,0.224,0.045,0.067,0.002,Medium Temperature Overheating,0.029850746268656716,0.33432835820895523,1.488888888888889,Low Temperature Overheating,4,4.0,Medium Temperature Overheating,1.008
+1e-06,4.9,81.0,172.0,1e-06,Medium Temperature Overheating,5.813953488372093e-09,4900000.000000001,2.123456790123457,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,257.900002
+24.0,34.6,14.2,21.7,1e-06,Medium Temperature Overheating,4.608294930875576e-08,1.4416666666666667,1.528169014084507,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,94.500001
+220.0,340.0,42.0,480.0,14.0,High Temperature Overheating,0.029166666666666667,1.5454545454545454,11.428571428571429,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1096.0
+290.0,966.0,299.0,1810.0,57.0,High Temperature Overheating,0.03149171270718232,3.331034482758621,6.053511705685619,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,3422.0
+8800.0,64064.0,72128.0,95650.0,1e-06,High Temperature Overheating,1.0454783063251437e-11,7.28,1.3261146850044365,Medium Temperature Overheating (<700C),1,1.0,High Temperature Overheating,240642.000001
+39.0,525.0,538.0,2925.0,16.0,High Temperature Overheating,0.00547008547008547,13.461538461538462,5.436802973977695,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,4043.0
+290.0,1260.0,231.0,820.0,8.0,High Temperature Overheating,0.00975609756097561,4.344827586206897,3.54978354978355,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,2609.0
+1e-06,153.0,130.0,677.0,13.0,High Temperature Overheating,0.019202363367799114,153000000.0,5.207692307692308,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,973.000001
+15.55,7.4,7.4,41.93,6.35,High Temperature Overheating,0.15144288099212974,0.4758842443729904,5.666216216216216,High Energy Discharge (Arcing),1,1.0,High Temperature Overheating,78.63
+35.1,50.6,16.1,93.0,1.1,High Temperature Overheating,0.011827956989247313,1.4415954415954415,5.7763975155279494,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,195.9
+1e-06,28.0,64.0,408.0,6.0,High Temperature Overheating,0.014705882352941176,28000000.0,6.375,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,506.000001
+156.0,240.0,54.0,399.0,0.98,High Temperature Overheating,0.002456140350877193,1.5384615384615385,7.388888888888889,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,849.98
+89.0,281.0,145.0,1216.0,22.0,High Temperature Overheating,0.018092105263157895,3.157303370786517,8.386206896551725,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1753.0
+1100.0,1600.0,221.0,2010.0,26.0,High Temperature Overheating,0.012935323383084577,1.4545454545454546,9.095022624434389,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,4957.0
+1e-06,1e-06,9.0,57.0,1e-06,High Temperature Overheating,1.7543859649122805e-08,1.0,6.333333333333333,Unknown/Other,1,1.0,High Temperature Overheating,66.00000299999999
+137.0,369.0,144.0,1242.0,16.0,High Temperature Overheating,0.01288244766505636,2.6934306569343067,8.625,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1908.0
+425.0,17424.0,7299.0,37043.0,158.0,High Temperature Overheating,0.004265313284561186,40.99764705882353,5.075078777914783,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,62349.0
+30.0,25.5,31.5,93.0,1.8,High Temperature Overheating,0.01935483870967742,0.85,2.9523809523809526,Low Temperature Overheating,1,1.0,High Temperature Overheating,181.8
+107.0,143.0,34.0,222.0,2.0,High Temperature Overheating,0.009009009009009009,1.3364485981308412,6.529411764705882,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,508.0
+860.0,1670.0,30.0,2050.0,40.0,High Temperature Overheating,0.01951219512195122,1.941860465116279,68.33333333333333,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,4650.0
+1e-06,106.0,170.0,871.0,6.0,High Temperature Overheating,0.006888633754305396,106000000.0,5.123529411764705,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1153.0000009999999
+8.0,1.0,1e-06,60.0,1e-06,High Temperature Overheating,1.6666666666666667e-08,0.125,60000000.0,Unknown/Other,1,1.0,High Temperature Overheating,69.000002
+53.0,150.0,64.0,379.0,1e-06,High Temperature Overheating,2.6385224274406333e-09,2.830188679245283,5.921875,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,646.000001
+400.0,940.0,210.0,820.0,24.0,High Temperature Overheating,0.02926829268292683,2.35,3.9047619047619047,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,2394.0
+199.0,770.0,217.0,1508.0,72.0,High Temperature Overheating,0.04774535809018567,3.869346733668342,6.949308755760368,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,2766.0
+244.0,754.0,172.0,1281.0,27.0,High Temperature Overheating,0.02107728337236534,3.0901639344262297,7.4476744186046515,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,2478.0
+60.0,144.0,67.0,449.0,9.0,High Temperature Overheating,0.0200445434298441,2.4,6.701492537313433,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,729.0
+6709.0,10500.0,1400.0,17700.0,750.0,High Temperature Overheating,0.0423728813559322,1.5650618572067372,12.642857142857142,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,37059.0
+86.0,277.0,63.0,338.0,1e-06,High Temperature Overheating,2.9585798816568045e-09,3.2209302325581395,5.365079365079365,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,764.000001
+7.0,31.0,23.0,148.0,1e-06,High Temperature Overheating,6.756756756756756e-09,4.428571428571429,6.434782608695652,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,209.000001
+300.0,700.0,280.0,1700.0,36.0,High Temperature Overheating,0.021176470588235293,2.3333333333333335,6.071428571428571,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,3016.0
+20.0,26.0,6.0,55.0,1e-06,High Temperature Overheating,1.818181818181818e-08,1.3,9.166666666666666,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,107.000001
+3910.0,4290.0,626.0,6040.0,1230.0,High Temperature Overheating,0.20364238410596028,1.0971867007672633,9.648562300319488,Unknown/Other,1,1.0,High Temperature Overheating,16096.0
+23.0,14151.0,5332.0,23264.0,1e-06,High Temperature Overheating,4.2984869325997246e-11,615.2608695652174,4.363090772693173,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,42770.000001
+135.65,278.53,58.86,492.0,2.95,High Temperature Overheating,0.005995934959349594,2.053298931072613,8.358817533129459,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,967.99
+9.0,47.0,144.0,628.0,1e-06,High Temperature Overheating,1.5923566878980892e-09,5.222222222222222,4.361111111111111,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,828.000001
+8.0,88.0,45.0,252.0,1e-06,High Temperature Overheating,3.968253968253968e-09,11.0,5.6,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,393.000001
+179.0,306.0,73.0,579.0,1e-06,High Temperature Overheating,1.7271157167530223e-09,1.7094972067039107,7.931506849315069,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1137.000001
+80.0,619.0,326.0,2480.0,1e-06,High Temperature Overheating,4.032258064516129e-10,7.7375,7.607361963190184,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,3505.000001
+416.0,695.0,74.0,867.0,1e-06,High Temperature Overheating,1.1534025374855824e-09,1.6706730769230769,11.716216216216216,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,2052.000001
+19.3,103.0,159.0,19.0,0.6,High Temperature Overheating,0.031578947368421054,5.336787564766839,0.11949685534591195,Unknown/Other,1,1.0,High Temperature Overheating,300.90000000000003
+137.0,279.0,66.0,505.0,1e-06,High Temperature Overheating,1.98019801980198e-09,2.0364963503649633,7.651515151515151,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,987.000001
+12705.0,23498.0,6047.0,34257.0,5188.0,High Temperature Overheating,0.15144350059841785,1.8495080676898858,5.665123201587564,Unknown/Other,1,1.0,High Temperature Overheating,81695.0
+46.0,147.0,27.0,150.0,1e-06,High Temperature Overheating,6.666666666666666e-09,3.1956521739130435,5.555555555555555,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,370.000001
+21.0,42.0,4.0,92.0,1e-06,High Temperature Overheating,1.0869565217391303e-08,2.0,23.0,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,159.000001
+165.62,240.95,61.32,514.53,13.53,High Temperature Overheating,0.026295842807999535,1.4548363724187898,8.390900195694716,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,995.9499999999999
+39.0,7.0,12.0,65.0,1e-06,High Temperature Overheating,1.5384615384615385e-08,0.1794871794871795,5.416666666666667,Unknown/Other,1,1.0,High Temperature Overheating,123.000001
+86.0,480.0,155.0,644.0,9.0,High Temperature Overheating,0.013975155279503106,5.5813953488372094,4.15483870967742,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1374.0
+68.0,99.2,35.9,202.9,1e-06,High Temperature Overheating,4.928536224741252e-09,1.4588235294117649,5.651810584958218,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,406.000001
+172.9,334.0,172.0,812.5,37.7,High Temperature Overheating,0.046400000000000004,1.9317524580682475,4.723837209302325,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1529.1000000000001
+164.0,244.0,103.0,497.0,8.3,High Temperature Overheating,0.016700201207243463,1.4878048780487805,4.825242718446602,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1016.3
+20.0,48.0,36.0,186.0,1e-06,High Temperature Overheating,5.376344086021505e-09,2.4,5.166666666666667,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,290.000001
+1e-06,1e-06,1e-06,142.0,1e-06,High Temperature Overheating,7.04225352112676e-09,1.0,142000000.0,Unknown/Other,1,1.0,High Temperature Overheating,142.000004
+63.0,149.6,57.5,276.0,1e-06,High Temperature Overheating,3.6231884057971014e-09,2.3746031746031746,4.8,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,546.100001
+121.0,450.0,146.0,898.0,116.0,High Temperature Overheating,0.1291759465478842,3.71900826446281,6.1506849315068495,Unknown/Other,1,1.0,High Temperature Overheating,1731.0
+30.0,51.0,12.0,54.0,1e-06,High Temperature Overheating,1.8518518518518518e-08,1.7,4.5,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,147.000001
+22400.0,22400.0,2690.0,13440.0,1570.0,High Temperature Overheating,0.11681547619047619,1.0,4.996282527881041,High Energy Discharge (Arcing),1,1.0,High Temperature Overheating,62500.0
+36.0,30.0,10.0,93.0,7.1,High Temperature Overheating,0.07634408602150537,0.8333333333333334,9.3,Unknown/Other,1,1.0,High Temperature Overheating,176.1
+17.0,40.0,11.0,86.0,1e-06,High Temperature Overheating,1.1627906976744186e-08,2.3529411764705883,7.818181818181818,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,154.000001
+1e-06,3.4,1e-06,54.0,1e-06,High Temperature Overheating,1.8518518518518518e-08,3400000.0,54000000.0,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,57.400003
+18.0,35.0,2.0,110.0,1e-06,High Temperature Overheating,9.09090909090909e-09,1.9444444444444444,55.0,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,165.000001
+35.0,29.0,7.0,78.0,1e-06,High Temperature Overheating,1.282051282051282e-08,0.8285714285714286,11.142857142857142,Unknown/Other,1,1.0,High Temperature Overheating,149.000001
+6.0,2990.0,29990.0,26076.0,67.0,High Temperature Overheating,0.0025694124865776958,498.3333333333333,0.8694898299433145,Unknown/Other,1,1.0,High Temperature Overheating,59129.0
+236.0,410.2,159.0,817.3,3.5,High Temperature Overheating,0.0042823932460540805,1.7381355932203388,5.140251572327044,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1626.0
+1e-06,100.0,309.0,1365.0,7.0,High Temperature Overheating,0.005128205128205128,100000000.0,4.41747572815534,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1781.0000009999999
+173.0,334.0,172.0,812.5,37.7,High Temperature Overheating,0.046400000000000004,1.930635838150289,4.723837209302325,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1529.2
+110.0,7.0,1e-06,1e-06,1e-06,Partial Discharge,1.0,0.06363636363636363,1.0,Unknown/Other,5,5.0,Partial Discharge,117.00000299999999
+240.0,20.0,5.0,28.0,96.0,Partial Discharge,3.4285714285714284,0.08333333333333333,5.6,Unknown/Other,5,2.0,Low Energy Discharge,389.0
+5000.0,4000.0,2000.0,2000.0,8000.0,Partial Discharge,4.0,0.8,1.0,Unknown/Other,5,5.0,Partial Discharge,21000.0
+94.96,4.37,0.62,0.02,0.02,Partial Discharge,1.0,0.04601937657961247,0.03225806451612903,Unknown/Other,5,5.0,Partial Discharge,99.99
+41.0,112.0,1e-06,254.0,4536.0,Partial Discharge,17.858267716535433,2.731707317073171,254000000.0,Unknown/Other,5,5.0,Partial Discharge,4943.000001
+100.0,18.0,1e-06,1e-06,1e-06,Partial Discharge,1.0,0.18,1.0,Unknown/Other,5,5.0,Partial Discharge,118.00000299999999
+37800.0,1740.0,249.0,8.0,8.0,Partial Discharge,1.0,0.046031746031746035,0.0321285140562249,Unknown/Other,5,5.0,Partial Discharge,39805.0
+103.5,4.7,16.3,3.5,1e-06,Partial Discharge,2.857142857142857e-07,0.045410628019323676,0.21472392638036808,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,128.000001
+200.0,230.0,2.0,170.0,480.0,Partial Discharge,2.823529411764706,1.15,85.0,Unknown/Other,5,5.0,Partial Discharge,1082.0
+40280.0,1069.0,1060.0,1.0,1.0,Partial Discharge,1.0,0.02653922542204568,0.0009433962264150943,Unknown/Other,5,5.0,Partial Discharge,42411.0
+116.0,14.0,134.0,5.3,1e-06,Partial Discharge,1.8867924528301886e-07,0.1206896551724138,0.03955223880597015,Normal,5,5.0,Partial Discharge,269.300001
+88.0,9.0,1e-06,0.03,1e-06,Partial Discharge,3.3333333333333335e-05,0.10227272727272728,30000.0,Unknown/Other,5,1.0,High Temperature Overheating,97.030002
+105.0,23.0,13.0,4.0,3.0,Partial Discharge,0.75,0.21904761904761905,0.3076923076923077,Unknown/Other,5,0.0,High Energy Discharge (Arcing),148.0
+625.0,49.0,9.0,7.0,0.6,Partial Discharge,0.08571428571428572,0.0784,0.7777777777777778,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,690.6
+134.0,13.0,267.0,1e-06,1e-06,Partial Discharge,1.0,0.09701492537313433,3.745318352059925e-09,Unknown/Other,5,5.0,Partial Discharge,414.000002
+181.5,22.0,76.0,3.7,1e-06,Partial Discharge,2.7027027027027024e-07,0.12121212121212122,0.048684210526315795,Normal,5,5.0,Partial Discharge,283.200001
+121.0,3.0,1.0,1e-06,1e-06,Partial Discharge,1.0,0.024793388429752067,1e-06,Unknown/Other,5,5.0,Partial Discharge,125.000002
+16000.0,3600.0,670.0,14.0,1e-06,Partial Discharge,7.142857142857142e-08,0.225,0.020895522388059702,Normal,5,5.0,Partial Discharge,20284.000001
+890.0,110.0,3.0,84.0,700.0,Partial Discharge,8.333333333333334,0.12359550561797752,28.0,Unknown/Other,5,5.0,Partial Discharge,1787.0
+2091.0,149.0,20.0,3.0,1e-06,Partial Discharge,3.333333333333333e-07,0.07125777140124342,0.15,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,2263.000001
+26788.0,18342.0,2111.0,27.0,1e-06,Partial Discharge,3.7037037037037036e-08,0.684709571449903,0.012790146849834202,Normal,5,5.0,Partial Discharge,47268.000001
+1950.0,123.0,38.0,2.0,2.0,Partial Discharge,1.0,0.06307692307692307,0.05263157894736842,Unknown/Other,5,5.0,Partial Discharge,2115.0
+650.0,53.0,35.0,20.0,1e-06,Partial Discharge,5e-08,0.08153846153846153,0.5714285714285714,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,758.000001
+92.8,6.75,0.44,1e-06,1e-06,Partial Discharge,1.0,0.07273706896551724,2.2727272727272728e-06,Unknown/Other,5,5.0,Partial Discharge,99.99000199999999
+187.0,5.0,1.0,1e-06,1e-06,Partial Discharge,1.0,0.026737967914438502,1e-06,Unknown/Other,5,5.0,Partial Discharge,193.000002
+111.7,19.4,104.1,6.4,3.8,Partial Discharge,0.5937499999999999,0.17367949865711726,0.06147934678194045,Unknown/Other,5,5.0,Partial Discharge,245.4
+85.87,7.01,4.49,2.64,1e-06,Partial Discharge,3.7878787878787876e-07,0.08163502969605216,0.5879732739420935,Partial Discharge (PD) / Low Energy Discharge,5,5.0,Partial Discharge,100.010001
+195.0,5.3,1e-06,1e-06,1e-06,Partial Discharge,1.0,0.027179487179487177,1.0,Unknown/Other,5,5.0,Partial Discharge,200.300003
+60.0,5.0,1.0,6.0,29.0,Partial Discharge,4.833333333333333,0.08333333333333333,6.0,Unknown/Other,5,5.0,Partial Discharge,101.0
+2240.0,360.0,25.0,169.0,828.0,Partial Discharge,4.899408284023669,0.16071428571428573,6.76,Unknown/Other,5,5.0,Partial Discharge,3622.0
+720.0,7.0,1e-06,15.0,101.0,Low Energy Discharge,6.733333333333333,0.009722222222222222,15000000.0,Unknown/Other,2,2.0,Low Energy Discharge,843.000001
+109.0,19.0,5.0,12.0,59.0,Low Energy Discharge,4.916666666666667,0.1743119266055046,2.4,Unknown/Other,2,2.0,Low Energy Discharge,204.0
+8.0,1e-06,1e-06,43.0,101.0,Low Energy Discharge,2.3488372093023258,1.25e-07,43000000.0,Unknown/Other,2,2.0,Low Energy Discharge,152.000002
+169.0,38.0,48.5,6.5,5.8,Low Energy Discharge,0.8923076923076922,0.22485207100591717,0.13402061855670103,Unknown/Other,2,2.0,Low Energy Discharge,267.8
+14.1,4.0,1.3,1.5,9.5,Low Energy Discharge,6.333333333333333,0.28368794326241137,1.1538461538461537,Unknown/Other,2,2.0,Low Energy Discharge,30.400000000000002
+124.0,14.0,4.0,1e-06,13.0,Low Energy Discharge,13000000.0,0.11290322580645161,2.5e-07,Unknown/Other,2,2.0,Low Energy Discharge,155.000001
+174.0,27.0,6.0,12.0,29.0,Low Energy Discharge,2.4166666666666665,0.15517241379310345,2.0,Unknown/Other,2,2.0,Low Energy Discharge,248.0
+179.0,39.3,64.0,654.0,168.0,Low Energy Discharge,0.25688073394495414,0.21955307262569831,10.21875,High Energy Discharge (Arcing),2,2.0,Low Energy Discharge,1104.3
+160.0,10.0,3.0,1.0,1.0,Low Energy Discharge,1.0,0.0625,0.3333333333333333,Unknown/Other,2,5.0,Partial Discharge,175.0
+4.0,1.0,2.0,7.0,52.0,Low Energy Discharge,7.428571428571429,0.25,3.5,Unknown/Other,2,2.0,Low Energy Discharge,66.0
+1330.0,10.0,20.0,66.0,182.0,Low Energy Discharge,2.757575757575758,0.007518796992481203,3.3,Unknown/Other,2,2.0,Low Energy Discharge,1608.0
+137.0,33.0,8.0,29.0,111.0,Low Energy Discharge,3.8275862068965516,0.24087591240875914,3.625,Unknown/Other,2,2.0,Low Energy Discharge,318.0
+595.0,32.0,4.0,18.0,65.0,Low Energy Discharge,3.611111111111111,0.05378151260504202,4.5,Unknown/Other,2,2.0,Low Energy Discharge,714.0
+56.0,334.1,75.0,32.0,31.0,Low Energy Discharge,0.96875,5.966071428571429,0.4266666666666667,Unknown/Other,2,2.0,Low Energy Discharge,528.1
+716.0,7.1,33.0,20.0,6.8,Low Energy Discharge,0.33999999999999997,0.009916201117318436,0.6060606060606061,Unknown/Other,2,2.0,Low Energy Discharge,782.9
+4230.0,690.0,5.0,196.0,1180.0,Low Energy Discharge,6.020408163265306,0.16312056737588654,39.2,Unknown/Other,2,2.0,Low Energy Discharge,6301.0
+142.0,17.0,4.0,7.0,38.0,Low Energy Discharge,5.428571428571429,0.11971830985915492,1.75,Unknown/Other,2,2.0,Low Energy Discharge,208.0
+163.0,26.0,7.0,19.0,133.0,Low Energy Discharge,7.0,0.15950920245398773,2.7142857142857144,Unknown/Other,2,2.0,Low Energy Discharge,348.0
+549.0,121.3,25.5,31.9,198.5,Low Energy Discharge,6.222570532915361,0.2209471766848816,1.2509803921568627,Unknown/Other,2,2.0,Low Energy Discharge,926.1999999999999
+476.0,28.0,27.0,36.0,148.0,Low Energy Discharge,4.111111111111111,0.058823529411764705,1.3333333333333333,Unknown/Other,2,2.0,Low Energy Discharge,715.0
+345.0,112.3,27.5,51.5,58.8,Low Energy Discharge,1.141747572815534,0.3255072463768116,1.8727272727272728,Unknown/Other,2,2.0,Low Energy Discharge,595.0999999999999
+234.5,30.28,6.11,47.69,175.88,Low Energy Discharge,3.687984902495282,0.12912579957356077,7.805237315875613,Unknown/Other,2,2.0,Low Energy Discharge,494.46
+153.0,18.0,9.0,1e-06,11.0,Low Energy Discharge,11000000.0,0.11764705882352941,1.1111111111111111e-07,Unknown/Other,2,2.0,Low Energy Discharge,191.000001
+1230.0,163.0,27.0,233.0,692.0,Low Energy Discharge,2.9699570815450644,0.13252032520325202,8.62962962962963,High Energy Discharge (Arcing),2,2.0,Low Energy Discharge,2345.0
+111.0,2.8,47.0,1e-06,27.5,Low Energy Discharge,27500000.0,0.025225225225225224,2.127659574468085e-08,Unknown/Other,2,2.0,Low Energy Discharge,188.300001
+500.0,97.0,193.0,40.0,121.0,Low Energy Discharge,3.025,0.194,0.20725388601036268,Unknown/Other,2,2.0,Low Energy Discharge,951.0
+1000.0,500.0,1.0,400.0,500.0,Low Energy Discharge,1.25,0.5,400.0,High Energy Discharge (Arcing),2,2.0,Low Energy Discharge,2401.0
+595.0,80.0,9.0,89.0,244.0,Low Energy Discharge,2.741573033707865,0.13445378151260504,9.88888888888889,High Energy Discharge (Arcing),2,2.0,Low Energy Discharge,1017.0
+102.0,6.0,6.0,7.0,10.0,Low Energy Discharge,1.4285714285714286,0.058823529411764705,1.1666666666666667,Unknown/Other,2,2.0,Low Energy Discharge,131.0
+315.0,60.0,14.0,93.0,218.0,Low Energy Discharge,2.3440860215053765,0.19047619047619047,6.642857142857143,High Energy Discharge (Arcing),2,2.0,Low Energy Discharge,700.0
+67.8,8.89,1.88,12.67,36.2,Low Energy Discharge,2.857142857142857,0.13112094395280238,6.73936170212766,High Energy Discharge (Arcing),2,2.0,Low Energy Discharge,127.44
+95.0,10.0,1e-06,11.0,39.0,Low Energy Discharge,3.5454545454545454,0.10526315789473684,11000000.0,Unknown/Other,2,2.0,Low Energy Discharge,155.000001
+4127.0,267.0,18.0,355.0,2060.0,Low Energy Discharge,5.802816901408451,0.06469590501574994,19.72222222222222,Unknown/Other,2,2.0,Low Energy Discharge,6827.0
+1570.0,735.0,87.0,1330.0,1740.0,High Energy Discharge (Arcing),1.3082706766917294,0.4681528662420382,15.28735632183908,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),5462.0
+800.0,1393.0,304.0,2817.0,3000.0,High Energy Discharge (Arcing),1.0649627263045793,1.74125,9.266447368421053,Unknown/Other,0,0.0,High Energy Discharge (Arcing),8314.0
+29.1,11.4,1.41,20.34,37.6,High Energy Discharge (Arcing),1.848574237954769,0.3917525773195876,14.425531914893618,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),99.85
+245.0,120.0,18.0,131.0,167.0,High Energy Discharge (Arcing),1.2748091603053435,0.4897959183673469,7.277777777777778,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),681.0
+61.0,21.0,2.0,26.0,89.0,High Energy Discharge (Arcing),3.423076923076923,0.3442622950819672,13.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),199.0
+99.0,170.0,20.0,200.0,190.0,High Energy Discharge (Arcing),0.95,1.7171717171717171,10.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),679.0
+243.0,127.0,20.0,122.0,588.0,High Energy Discharge (Arcing),4.819672131147541,0.522633744855967,6.1,Unknown/Other,0,0.0,High Energy Discharge (Arcing),1100.0
+2850.0,1115.0,138.0,1987.0,3675.0,High Energy Discharge (Arcing),1.8495218922999497,0.3912280701754386,14.398550724637682,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),9765.0
+512.0,87.0,11.5,163.59,185.21,High Energy Discharge (Arcing),1.1321596674613363,0.169921875,14.225217391304348,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),959.3000000000001
+235.46,333.59,177.52,1201.85,148.87,High Energy Discharge (Arcing),0.1238673711361651,1.4167586851269853,6.770223073456511,Unknown/Other,0,0.0,High Energy Discharge (Arcing),2097.29
+120.0,31.0,1e-06,66.0,94.0,High Energy Discharge (Arcing),1.4242424242424243,0.25833333333333336,66000000.0,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),311.000001
+615.0,200.0,42.0,102.0,68.0,High Energy Discharge (Arcing),0.6666666666666666,0.3252032520325203,2.4285714285714284,Unknown/Other,0,0.0,High Energy Discharge (Arcing),1027.0
+24.0,13.0,5.0,43.0,319.0,High Energy Discharge (Arcing),7.4186046511627906,0.5416666666666666,8.6,Unknown/Other,0,0.0,High Energy Discharge (Arcing),404.0
+56.0,10.0,1.3,13.5,17.6,High Energy Discharge (Arcing),1.3037037037037038,0.17857142857142858,10.384615384615385,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),98.4
+85.0,49.0,4.0,50.0,399.0,High Energy Discharge (Arcing),7.98,0.5764705882352941,12.5,Unknown/Other,0,0.0,High Energy Discharge (Arcing),587.0
+5900.0,1500.0,68.0,1200.0,800.0,High Energy Discharge (Arcing),0.6666666666666666,0.2542372881355932,17.647058823529413,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),9468.0
+34.0,21.0,4.0,49.0,56.0,High Energy Discharge (Arcing),1.1428571428571428,0.6176470588235294,12.25,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),164.0
+475.3,195.8,32.6,187.3,221.2,High Energy Discharge (Arcing),1.180993059263214,0.41195034714916895,5.745398773006135,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),1112.2
+191.0,62.0,27.0,123.0,71.0,High Energy Discharge (Arcing),0.5772357723577236,0.32460732984293195,4.555555555555555,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),474.0
+8200.0,3790.0,250.0,4620.0,5830.0,High Energy Discharge (Arcing),1.2619047619047619,0.46219512195121953,18.48,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),22690.0
+1e-06,1e-06,10.0,5.0,35.0,High Energy Discharge (Arcing),7.0,1.0,0.5,Unknown/Other,0,0.0,High Energy Discharge (Arcing),50.000002
+530.0,345.0,85.0,266.0,21.0,High Energy Discharge (Arcing),0.07894736842105263,0.6509433962264151,3.1294117647058823,Unknown/Other,0,0.0,High Energy Discharge (Arcing),1247.0
+4.0,88.0,213.0,14.0,35.0,High Energy Discharge (Arcing),2.5,22.0,0.06572769953051644,Unknown/Other,0,0.0,High Energy Discharge (Arcing),354.0
+59.0,20.0,120.0,5.5,8.9,High Energy Discharge (Arcing),1.6181818181818182,0.3389830508474576,0.04583333333333333,Unknown/Other,0,0.0,High Energy Discharge (Arcing),213.4
+810.0,580.0,111.0,570.0,490.0,High Energy Discharge (Arcing),0.8596491228070176,0.7160493827160493,5.135135135135135,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),2561.0
+65.4,20.2,70.0,39.0,40.2,High Energy Discharge (Arcing),1.0307692307692309,0.30886850152905193,0.5571428571428572,Unknown/Other,0,0.0,High Energy Discharge (Arcing),234.8
+60.0,40.0,6.9,110.0,70.0,High Energy Discharge (Arcing),0.6363636363636364,0.6666666666666666,15.942028985507246,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),286.9
+84.0,6.0,1.0,14.0,86.0,High Energy Discharge (Arcing),6.142857142857143,0.07142857142857142,14.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),191.0
+145.88,40.65,9.37,34.02,59.71,High Energy Discharge (Arcing),1.7551440329218106,0.27865368796270906,3.6307363927427967,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),289.63
+5000.0,1200.0,83.0,1000.0,1100.0,High Energy Discharge (Arcing),1.1,0.24,12.048192771084338,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),8383.0
+20000.0,13000.0,1850.0,29000.0,57000.0,High Energy Discharge (Arcing),1.9655172413793103,0.65,15.675675675675675,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),120850.0
+10000.0,6730.0,345.0,7330.0,10400.0,High Energy Discharge (Arcing),1.4188267394270122,0.673,21.246376811594203,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),34805.0
+420.0,250.0,41.0,530.0,800.0,High Energy Discharge (Arcing),1.509433962264151,0.5952380952380952,12.926829268292684,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),2041.0
+70.0,4.0,91.0,1e-06,34.0,High Energy Discharge (Arcing),34000000.0,0.05714285714285714,1.0989010989010988e-08,Unknown/Other,0,2.0,Low Energy Discharge,199.000001
+47.0,9.0,4.0,16.0,81.0,High Energy Discharge (Arcing),5.0625,0.19148936170212766,4.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),157.0
+120.0,31.0,1e-06,66.0,94.0,High Energy Discharge (Arcing),1.4242424242424243,0.25833333333333336,66000000.0,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),311.000001
+5100.0,1430.0,1e-06,1140.0,1010.0,High Energy Discharge (Arcing),0.8859649122807017,0.2803921568627451,1140000000.0,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),8680.000001
+535.0,160.0,16.0,305.0,680.0,High Energy Discharge (Arcing),2.2295081967213113,0.29906542056074764,19.0625,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),1696.0
+41.0,16.0,19.0,58.0,106.0,High Energy Discharge (Arcing),1.8275862068965518,0.3902439024390244,3.0526315789473686,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),240.0
+65.0,26.1,10.1,41.6,57.8,High Energy Discharge (Arcing),1.3894230769230769,0.40153846153846157,4.118811881188119,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),200.59999999999997
+545.0,130.0,16.0,153.0,239.0,High Energy Discharge (Arcing),1.5620915032679739,0.23853211009174313,9.5625,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),1083.0
+34.0,1e-06,1e-06,1e-06,44.0,High Energy Discharge (Arcing),44000000.0,2.941176470588235e-08,1.0,Unknown/Other,0,0.0,High Energy Discharge (Arcing),78.00000299999999
+57.0,15.0,3.1,23.0,25.3,High Energy Discharge (Arcing),1.1,0.2631578947368421,7.419354838709677,High Energy Discharge (Arcing),0,0.0,High Energy Discharge (Arcing),123.39999999999999
+161.0,38.0,210.0,13.0,1e-06,Low Temperature Overheating,7.692307692307692e-08,0.2360248447204969,0.06190476190476191,Normal,3,3.0,Low Temperature Overheating,422.000001
+9.0,38.0,93.0,8.0,1e-06,Low Temperature Overheating,1.25e-07,4.222222222222222,0.08602150537634409,Unknown/Other,3,3.0,Low Temperature Overheating,148.000001
+55.0,22.0,0.5,2.6,1e-06,Low Temperature Overheating,3.846153846153846e-07,0.4,5.2,Unknown/Other,3,3.0,Low Temperature Overheating,80.10000099999999
+15.0,7.0,92.0,5.0,1e-06,Low Temperature Overheating,2e-07,0.4666666666666667,0.05434782608695652,Normal,3,3.0,Low Temperature Overheating,119.000001
+14.0,14.0,124.0,7.0,1.0,Low Temperature Overheating,0.14285714285714285,1.0,0.056451612903225805,Unknown/Other,3,3.0,Low Temperature Overheating,160.0
+625.0,130.0,47.0,2.0,1e-06,Low Temperature Overheating,5e-07,0.208,0.0425531914893617,Normal,3,3.0,Low Temperature Overheating,804.000001
+29.0,71.0,158.0,20.0,1e-06,Low Temperature Overheating,5e-08,2.4482758620689653,0.12658227848101267,Unknown/Other,3,3.0,Low Temperature Overheating,278.000001
+17.0,21.0,118.0,1e-06,4.0,Low Temperature Overheating,4000000.0,1.2352941176470589,8.474576271186441e-09,Unknown/Other,3,3.0,Low Temperature Overheating,160.000001
+115.0,129.0,316.0,36.0,1e-06,Low Temperature Overheating,2.7777777777777777e-08,1.1217391304347826,0.11392405063291139,Unknown/Other,3,3.0,Low Temperature Overheating,596.000001
+13.2,18.7,97.4,79.5,4.7,Low Temperature Overheating,0.05911949685534591,1.4166666666666667,0.8162217659137576,Unknown/Other,3,3.0,Low Temperature Overheating,213.5
+10.0,44.0,106.0,28.0,1e-06,Low Temperature Overheating,3.571428571428571e-08,4.4,0.2641509433962264,Unknown/Other,3,3.0,Low Temperature Overheating,188.000001
+27.0,30.0,23.0,2.4,0.1,Low Temperature Overheating,0.04166666666666667,1.1111111111111112,0.10434782608695652,Unknown/Other,3,3.0,Low Temperature Overheating,82.5
+20.0,132.0,61.0,17.0,1e-06,Low Temperature Overheating,5.88235294117647e-08,6.6,0.2786885245901639,Unknown/Other,3,3.0,Low Temperature Overheating,230.000001
+42.0,124.0,1.0,8.0,1e-06,Low Temperature Overheating,1.25e-07,2.9523809523809526,8.0,High Temperature Overheating (>700C),3,3.0,Low Temperature Overheating,175.000001
+24.0,109.0,69.0,1e-06,1e-06,Low Temperature Overheating,1.0,4.541666666666667,1.4492753623188406e-08,Unknown/Other,3,3.0,Low Temperature Overheating,202.000002
+16.0,68.0,124.0,15.0,1e-06,Low Temperature Overheating,6.666666666666667e-08,4.25,0.12096774193548387,Unknown/Other,3,3.0,Low Temperature Overheating,223.000001
+16.4,45.5,68.7,3.8,1e-06,Low Temperature Overheating,2.631578947368421e-07,2.774390243902439,0.05531295487627365,Unknown/Other,3,3.0,Low Temperature Overheating,134.400001
+37.0,47.0,10.0,5.5,1e-06,Low Temperature Overheating,1.818181818181818e-07,1.2702702702702702,0.55,Unknown/Other,3,3.0,Low Temperature Overheating,99.500001
+86.0,8.0,2.5,2.5,1e-06,Low Temperature Overheating,4e-07,0.09302325581395349,1.0,Unknown/Other,3,5.0,Partial Discharge,99.000001
+29.9,24.1,34.3,92.5,0.6,Low Temperature Overheating,0.006486486486486486,0.8060200668896322,2.6967930029154523,Low Temperature Overheating,3,3.0,Low Temperature Overheating,181.4
+16.0,80.0,134.0,10.0,1e-06,Low Temperature Overheating,1e-07,5.0,0.07462686567164178,Unknown/Other,3,3.0,Low Temperature Overheating,240.000001
+66.0,60.0,2.0,7.0,1e-06,Low Temperature Overheating,1.4285714285714285e-07,0.9090909090909091,3.5,Unknown/Other,3,3.0,Low Temperature Overheating,135.000001
+1e-06,43.0,146.0,9.0,1e-06,Low Temperature Overheating,1.1111111111111111e-07,43000000.0,0.06164383561643835,Unknown/Other,3,3.0,Low Temperature Overheating,198.000002
+87.2,73.18,27.14,56.88,1e-06,Low Temperature Overheating,1.7580872011251757e-08,0.8392201834862386,2.0957995578481947,Low Temperature Overheating,3,3.0,Low Temperature Overheating,244.40000099999997
+128.0,35.0,213.0,17.0,1e-06,Low Temperature Overheating,5.88235294117647e-08,0.2734375,0.07981220657276995,Normal,3,3.0,Low Temperature Overheating,393.000001
+14.0,62.0,16.0,3.0,1e-06,Low Temperature Overheating,3.333333333333333e-07,4.428571428571429,0.1875,Unknown/Other,3,3.0,Low Temperature Overheating,95.000001
+37.0,123.0,67.0,52.0,1e-06,Low Temperature Overheating,1.923076923076923e-08,3.324324324324324,0.7761194029850746,Unknown/Other,3,3.0,Low Temperature Overheating,279.000001
+130.0,140.0,2.0,120.0,1e-06,Low Temperature Overheating,8.333333333333334e-09,1.0769230769230769,60.0,High Temperature Overheating (>700C),3,3.0,Low Temperature Overheating,392.000001
+43.0,28.0,72.0,9.0,1e-06,Low Temperature Overheating,1.1111111111111111e-07,0.6511627906976745,0.125,Normal,3,3.0,Low Temperature Overheating,152.000001
+16.0,105.0,224.0,15.0,1e-06,Low Temperature Overheating,6.666666666666667e-08,6.5625,0.06696428571428571,Unknown/Other,3,3.0,Low Temperature Overheating,360.000001
+19.0,62.0,95.0,5.0,1e-06,Low Temperature Overheating,2e-07,3.263157894736842,0.05263157894736842,Unknown/Other,3,3.0,Low Temperature Overheating,181.000001
+79.0,40.0,264.0,10.0,1e-06,Low Temperature Overheating,1e-07,0.5063291139240507,0.03787878787878788,Normal,3,3.0,Low Temperature Overheating,393.000001
+69.0,174.0,267.0,15.0,1e-06,Low Temperature Overheating,6.666666666666667e-08,2.5217391304347827,0.056179775280898875,Unknown/Other,3,3.0,Low Temperature Overheating,525.000001
+137.0,97.0,12.0,29.0,1.5,Low Temperature Overheating,0.05172413793103448,0.708029197080292,2.4166666666666665,Low Temperature Overheating,3,3.0,Low Temperature Overheating,276.5
+111.0,67.0,105.0,9.0,1e-06,Low Temperature Overheating,1.1111111111111111e-07,0.6036036036036037,0.08571428571428572,Normal,3,3.0,Low Temperature Overheating,292.000001
+1e-06,116.0,70.0,1e-06,1e-06,Low Temperature Overheating,1.0,116000000.0,1.4285714285714284e-08,Unknown/Other,3,3.0,Low Temperature Overheating,186.000003
+25.0,29.0,137.0,8.0,1e-06,Low Temperature Overheating,1.25e-07,1.16,0.058394160583941604,Unknown/Other,3,3.0,Low Temperature Overheating,199.000001
+20.37,59.79,45.24,80.49,1e-06,Medium Temperature Overheating,1.2423903590508137e-08,2.9351988217967597,1.779177718832891,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,205.89000099999998
+19.0,47.0,27.0,62.0,1e-06,Medium Temperature Overheating,1.6129032258064514e-08,2.473684210526316,2.2962962962962963,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,155.000001
+88.7,460.8,94.9,184.6,18.3,Medium Temperature Overheating,0.0991332611050921,5.195039458850056,1.9452054794520546,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,847.3
+24.0,78.0,266.0,779.0,7.0,Medium Temperature Overheating,0.008985879332477536,3.25,2.9285714285714284,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,1154.0
+0.7,1.5,0.3,1.8,1e-06,Medium Temperature Overheating,5.555555555555555e-07,2.142857142857143,6.0,High Temperature Overheating (>700C),4,4.0,Medium Temperature Overheating,4.300001
+360.0,610.0,259.0,260.0,9.0,Medium Temperature Overheating,0.03461538461538462,1.6944444444444444,1.0038610038610039,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,1498.0
+31.0,56.0,33.0,77.0,1e-06,Medium Temperature Overheating,1.2987012987012986e-08,1.8064516129032258,2.3333333333333335,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,197.000001
+24700.0,61000.0,26300.0,42100.0,1560.0,Medium Temperature Overheating,0.03705463182897862,2.4696356275303644,1.6007604562737643,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,155660.0
+62.0,425.0,276.0,651.0,26.0,Medium Temperature Overheating,0.039938556067588324,6.854838709677419,2.358695652173913,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,1440.0
+295.0,1466.0,331.0,1295.0,32.0,Medium Temperature Overheating,0.02471042471042471,4.969491525423729,3.9123867069486407,High Temperature Overheating (>700C),4,1.0,High Temperature Overheating,3419.0
+109.0,102.0,28.0,91.0,1e-06,Medium Temperature Overheating,1.0989010989010988e-08,0.9357798165137615,3.25,Unknown/Other,4,4.0,Medium Temperature Overheating,330.000001
+47.0,120.0,90.0,198.0,3.0,Medium Temperature Overheating,0.015151515151515152,2.5531914893617023,2.2,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,458.0
+144.0,1672.0,394.0,669.0,1e-06,Medium Temperature Overheating,1.4947683109118085e-09,11.61111111111111,1.6979695431472082,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,2879.000001
+3.0,5.0,90.0,185.0,3.0,Medium Temperature Overheating,0.016216216216216217,1.6666666666666667,2.0555555555555554,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,286.0
+20.0,41.9,20.2,44.2,0.38,Medium Temperature Overheating,0.008597285067873302,2.0949999999999998,2.1881188118811883,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,126.67999999999999
+50.0,274.0,95.0,320.0,6.3,Medium Temperature Overheating,0.0196875,5.48,3.3684210526315788,High Temperature Overheating (>700C),4,4.0,Medium Temperature Overheating,745.3
+151.0,242.0,68.0,232.0,1e-06,Medium Temperature Overheating,4.310344827586206e-09,1.6026490066225165,3.411764705882353,High Temperature Overheating (>700C),4,4.0,Medium Temperature Overheating,693.000001
+46.9,161.6,94.1,193.6,0.56,Medium Temperature Overheating,0.0028925619834710746,3.4456289978678036,2.0573857598299683,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,496.76000000000005
+37.0,96.0,19.0,57.0,1e-06,Medium Temperature Overheating,1.7543859649122805e-08,2.5945945945945947,3.0,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,209.000001
+670.0,224.0,45.0,67.0,2.0,Medium Temperature Overheating,0.029850746268656716,0.33432835820895523,1.488888888888889,Low Temperature Overheating,4,4.0,Medium Temperature Overheating,1008.0
+27.0,90.0,42.0,63.0,0.2,Medium Temperature Overheating,0.0031746031746031746,3.3333333333333335,1.5,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,222.2
+128.0,419.0,269.5,614.1,0.35,Medium Temperature Overheating,0.0005699397492265103,3.2734375,2.278664192949907,Medium Temperature Overheating (<700C),4,4.0,Medium Temperature Overheating,1430.9499999999998
+160.0,130.0,33.0,96.0,0.1,Medium Temperature Overheating,0.0010416666666666667,0.8125,2.909090909090909,Low Temperature Overheating,4,4.0,Medium Temperature Overheating,419.1
+172.0,335.0,171.0,812.0,37.8,High Temperature Overheating,0.04655172413793103,1.947674418604651,4.748538011695906,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1527.8
+1.0,8.0,8.0,100.0,6.0,High Temperature Overheating,0.06,8.0,12.5,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,123.0
+507.0,1053.0,297.0,1440.0,17.0,High Temperature Overheating,0.011805555555555555,2.076923076923077,4.848484848484849,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,3314.0
+24.0,20.0,4.0,87.0,1e-06,High Temperature Overheating,1.1494252873563218e-08,0.8333333333333334,21.75,Unknown/Other,1,1.0,High Temperature Overheating,135.000001
+65.0,34.0,16.0,112.0,1e-06,High Temperature Overheating,8.928571428571428e-09,0.5230769230769231,7.0,Unknown/Other,1,1.0,High Temperature Overheating,227.000001
+4.0,2.0,1.0,63.0,1e-06,High Temperature Overheating,1.5873015873015872e-08,0.5,63.0,Unknown/Other,1,1.0,High Temperature Overheating,70.000001
+114.0,241.0,80.0,574.0,1e-06,High Temperature Overheating,1.7421602787456446e-09,2.1140350877192984,7.175,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1009.000001
+117.0,167.0,48.0,481.0,7.0,High Temperature Overheating,0.014553014553014554,1.4273504273504274,10.020833333333334,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,820.0
+11.0,13.0,2.0,127.0,1e-06,High Temperature Overheating,7.874015748031496e-09,1.1818181818181819,63.5,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,153.000001
+55.0,159.0,114.0,493.0,1e-06,High Temperature Overheating,2.028397565922921e-09,2.890909090909091,4.324561403508772,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,821.000001
+1550.0,2740.0,816.0,5450.0,184.0,High Temperature Overheating,0.033761467889908255,1.767741935483871,6.678921568627451,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,10740.0
+78.0,161.0,86.0,353.0,10.0,High Temperature Overheating,0.028328611898016998,2.0641025641025643,4.104651162790698,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,688.0
+33.0,79.0,30.0,215.0,5.0,High Temperature Overheating,0.023255813953488372,2.393939393939394,7.166666666666667,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,362.0
+170.0,320.0,53.0,520.0,3.2,High Temperature Overheating,0.006153846153846154,1.8823529411764706,9.81132075471698,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1066.2
+10.0,4.0,1.0,87.0,1e-06,High Temperature Overheating,1.1494252873563218e-08,0.4,87.0,Unknown/Other,1,1.0,High Temperature Overheating,102.000001
+2500.0,10500.0,4790.0,13500.0,6.0,High Temperature Overheating,0.00044444444444444447,4.2,2.8183716075156577,Medium Temperature Overheating (<700C),1,1.0,High Temperature Overheating,31296.0
+56.0,286.0,96.0,928.0,7.0,High Temperature Overheating,0.007543103448275862,5.107142857142857,9.666666666666666,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1373.0
+53.0,189.0,25.0,295.0,5.0,High Temperature Overheating,0.01694915254237288,3.5660377358490565,11.8,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,567.0
+1e-06,10.0,17.0,68.0,5.0,High Temperature Overheating,0.07352941176470588,10000000.0,4.0,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,100.000001
+150.0,22.0,9.0,60.0,11.0,High Temperature Overheating,0.18333333333333332,0.14666666666666667,6.666666666666667,High Energy Discharge (Arcing),1,1.0,High Temperature Overheating,252.0
+99.0,288.0,73.0,386.0,1e-06,High Temperature Overheating,2.5906735751295336e-09,2.909090909090909,5.287671232876712,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,846.000001
+27.0,51.0,1e-06,153.0,1e-06,High Temperature Overheating,6.5359477124183e-09,1.8888888888888888,153000000.0,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,231.000002
+480.0,1075.0,298.0,1132.0,1e-06,High Temperature Overheating,8.833922261484099e-10,2.2395833333333335,3.7986577181208054,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,2985.000001
+376.0,575.0,146.0,1092.0,1e-06,High Temperature Overheating,9.157509157509157e-10,1.5292553191489362,7.47945205479452,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,2189.000001
+100.0,200.0,110.0,670.0,11.0,High Temperature Overheating,0.016417910447761194,2.0,6.090909090909091,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1091.0
+231.0,3997.0,1726.0,5584.0,1e-06,High Temperature Overheating,1.790830945558739e-10,17.303030303030305,3.235225955967555,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,11538.000001
+12.0,270.0,1e-06,275.0,1e-06,High Temperature Overheating,3.6363636363636364e-09,22.5,275000000.0,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,557.000002
+8.47,28.22,8.73,52.89,1.66,High Temperature Overheating,0.031385895254301376,3.3317591499409676,6.058419243986254,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,99.97
+1860.0,4980.0,1e-06,10700.0,1600.0,High Temperature Overheating,0.14953271028037382,2.6774193548387095,10700000000.0,Unknown/Other,1,1.0,High Temperature Overheating,19140.000001
+28.0,62.0,16.0,76.0,1e-06,High Temperature Overheating,1.3157894736842104e-08,2.2142857142857144,4.75,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,182.000001
+22.4,22.4,2.69,13.44,1.57,High Temperature Overheating,0.1168154761904762,1.0,4.996282527881041,High Energy Discharge (Arcing),1,1.0,High Temperature Overheating,62.49999999999999
+191.0,1359.0,166.0,1494.0,2.0,High Temperature Overheating,0.0013386880856760374,7.115183246073299,9.0,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,3212.0
+50.0,100.0,51.0,305.0,9.0,High Temperature Overheating,0.029508196721311476,2.0,5.980392156862745,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,515.0
+3420.0,7870.0,1500.0,6990.0,33.0,High Temperature Overheating,0.004721030042918455,2.301169590643275,4.66,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,19813.0
+65.0,61.0,16.0,143.0,3.0,High Temperature Overheating,0.02097902097902098,0.9384615384615385,8.9375,Unknown/Other,1,1.0,High Temperature Overheating,288.0
+16.0,87.0,75.0,395.0,30.0,High Temperature Overheating,0.0759493670886076,5.4375,5.266666666666667,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,603.0
+1374.0,2648.0,628.0,5376.0,298.0,High Temperature Overheating,0.055431547619047616,1.9272197962154294,8.560509554140127,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,10324.0
+135.88,362.42,125.22,826.65,3.74,High Temperature Overheating,0.004524284763805723,2.6672063585516637,6.601581217057978,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,1453.91
+34.0,174.0,52.0,361.0,1e-06,High Temperature Overheating,2.7700831024930746e-09,5.117647058823529,6.9423076923076925,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,621.000001
+3675.0,6392.0,2500.0,7691.0,5.0,High Temperature Overheating,0.000650110518788194,1.7393197278911565,3.0764,High Temperature Overheating (>700C),1,1.0,High Temperature Overheating,20263.0
