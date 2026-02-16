@@ -74,6 +74,10 @@ which their condition information (faulty or not) at the time of the DGA was una
 Therefore, there was no possibility to directly correlate one with the other, only to evaluate the
 DGA results distribution assuming most of the data came from healthy transformers.
 
+- It is generally recognized by the industry experts that increasing gas levels are more of a concern than the levels themselves. Therefore, it is important to have some guidelines on acceptable gas generation rates.
+
+- It is also recognized that all faults are not of the same concern, so the type of fault should also be considered, not just the gas levels or the gas evolution.
+
 ---
 
 ## Citation
