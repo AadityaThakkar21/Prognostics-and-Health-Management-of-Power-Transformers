@@ -80,6 +80,21 @@ DGA results distribution assuming most of the data came from healthy transformer
 
 ---
 
+## Meaning of Different Gases
+
+- Hydrogen (H2) is created primarily from corona partial discharge and stray gassing of oil, also from
+sparking discharges and arcs, although C2H2 is a much better indicator in such cases. It can also be caused
+by chemical reaction with galvanized steel.
+- Methane (CH4), Ethane (C2H6), and Ethylene (C2H4) are created from heating of oil or paper.
+- Acetylene (C2H2) is created from arcing in oil or paper at very high temperatures above 1000 °C.
+Transformers without internal fuses, switches or other arcing devices that may have operated should not
+create any C2H2 under normal operating conditions. It is not uncommon to find increased levels of H2 or
+C2H4 when C2H2 is detected.
+- Carbon Monoxide (CO) and Carbon Dioxide (CO2) are created from heating of cellulose or insulating
+liquid
+
+---
+
 ## Citation
 
 If you use this dataset, please cite the following work:
