@@ -1,118 +1,131 @@
-# Dataset Description
+# Prognostics and Health Management of Power Transformers (BMP Project)
 
-1. ETD: Here we use the **Electricity Transformer Temperature Dataset**, which contains multivariate time-series measurements collected from a power transformer.
-2. DGA: Dissolved Gas Analysis
+## Overview
+This project focuses on data-driven monitoring and fault diagnosis of power transformers using machine learning and statistical techniques. The objective is to identify anomalies, detect faults early, and improve transformer reliability.
 
----
-
-## Fields for ETD Dataset
-
-| Field | Description |
-|------|------------|
-| `date` | Timestamp of the recorded measurement |
-| `HUFL` | High Useful Load |
-| `HULL` | High Useless Load |
-| `MUFL` | Middle Useful Load |
-| `MULL` | Middle Useless Load |
-| `LUFL` | Low Useful Load |
-| `LULL` | Low Useless Load |
-| `OT` | Oil Temperature (target variable) |
+I have primarily contributed to the following three major components:
+1. Outlier Detection in Oil Temperature Data  
+2. Fault Diagnosis using Rogers Ratio and Random Forest  
+3. Data Preprocessing using Hampel Filter and Kalman Smoothing  
 
 ---
 
-## Useful vs Useless Load (Physical Meaning)
+## 1. Outlier Detection (Oil Temperature Dataset)
 
-- **Useful load (active power)**:  
-  Current is largely **in phase with voltage**, meaning current peaks when voltage
-  peaks. Electrical energy is transferred to the load and converted into real work.
+### Objective
+Detect abnormal operating conditions in transformers by analyzing oil temperature behavior relative to load patterns.
 
-- **Useless load (reactive power)**:  
-  Current is **out of phase with voltage** due to inductive or capacitive elements.
-  Energy oscillates between the source and the magnetic/electric fields instead of
-  performing net work.
+### Approach
 
-Although reactive power does not produce useful output, it still increases the
-**current magnitude** flowing through the transformer.
+#### Feature Engineering
+- Load Magnitudes:
+  - P_high, P_mid, P_low
+- Rolling statistics:
+  - 6h, 12h, 24h windows
 
----
+#### Rare Load Detection (DBSCAN)
+- Clustering used to identify rare operating states  
+- Approximately 3.44% of data points detected as rare load conditions  
 
-## Relation to Oil Temperature
+#### Expected Temperature Modeling
+- Model: Ridge Regression  
+- Best window: 24h  
+- Metrics:
+  - MAE ≈ 6.48  
+  - R² ≈ 0.106  
 
-Transformer heating depends on current, not on whether power is useful:
-\[
-\text{Copper loss} \propto I^2 R
-\]
+#### Anomaly Definition
+A point is considered anomalous if:
+- It belongs to a rare load cluster (DBSCAN), and  
+- It has high prediction residual  
 
-Out-of-phase (reactive) current still flows through resistive windings and produces
-heat, raising the oil temperature. Higher-level loads (HUFL, HULL) have the strongest
-impact, while lower-level loads contribute to baseline heating.
+### Results
+- Rare Load Points: 599  
+- High Residual Points: 856  
+- True Anomalies: 15 (0.09%)
 
----
-
-## Data Source
-
-The dataset is provided by the authors of the **Informer** model and is publicly available at: https://github.com/zhouhaoyi/ETDataset
-
----
-
-## Understanding DGA
-
-There is no direct and infallible method using DGA to obtain an exact evaluation of a transformer’s condition. There are several reasons why the DGA status can be very different from the transformer’s true
-condition, some of which are as follows:
-
-a) There are several possible causes of the presence of gas in a transformer. Some of those are related
-to fault conditions (e.g., arcing, overheating, PD), others are related to more benign conditions
-(e.g., stray gassing, contamination, previous fault now inactive, and mild core overheating.
-
-b) Some pre-failure conditions simply do not generate gas. (e.g., mechanical or insulating system
-weakness).
-
-c) Some normal conditions do generate gases. (e.g., normal aging, and insulating liquid oxidation).
-
-d) The DGA data used to develop this procedure and norms came from in-service transformers for
-which their condition information (faulty or not) at the time of the DGA was unavailable.
-Therefore, there was no possibility to directly correlate one with the other, only to evaluate the
-DGA results distribution assuming most of the data came from healthy transformers.
-
-- It is generally recognized by the industry experts that increasing gas levels are more of a concern than the levels themselves. Therefore, it is important to have some guidelines on acceptable gas generation rates.
-
-- It is also recognized that all faults are not of the same concern, so the type of fault should also be considered, not just the gas levels or the gas evolution.
+### Interpretation
+- True anomalies may indicate degradation or abnormal operation  
+- Model errors suggest seasonal drift or the need for retraining  
 
 ---
 
-## Meaning of Different Gases
+## 2. Fault Diagnosis (DGA Dataset)
 
-- Hydrogen (H2) is created primarily from corona partial discharge and stray gassing of oil, also from
-sparking discharges and arcs, although C2H2 is a much better indicator in such cases. It can also be caused
-by chemical reaction with galvanized steel.
-- Methane (CH4), Ethane (C2H6), and Ethylene (C2H4) are created from heating of oil or paper.
-- Acetylene (C2H2) is created from arcing in oil or paper at very high temperatures above 1000 °C.
-Transformers without internal fuses, switches or other arcing devices that may have operated should not
-create any C2H2 under normal operating conditions. It is not uncommon to find increased levels of H2 or
-C2H4 when C2H2 is detected.
-- Carbon Monoxide (CO) and Carbon Dioxide (CO2) are created from heating of cellulose or insulating
-liquid
+### Objective
+Classify transformer faults using Dissolved Gas Analysis (DGA).
+
+### Feature Engineering
+- Rogers Ratios:
+  - R1 = C2H2 / C2H4  
+  - R2 = CH4 / H2  
+  - R3 = C2H4 / C2H6  
+- Additional Feature:
+  - TotalGas  
+
+
+### Method 1: Rogers Ratio (Rule-Based)
+- Classical threshold-based classification  
+- Categories:
+  - Partial Discharge (PD)  
+  - Arcing  
+  - Low, Medium, and High Temperature Overheating  
+
+#### Limitation
+- Many samples classified as "Unknown"  
+- Hard thresholds limit flexibility  
+
+
+### Method 2: Random Forest Classifier
+- Model: Random Forest (200 trees)  
+- Train-Test Split: 80/20 (Stratified)  
+- Preprocessing: StandardScaler  
+
+#### Performance
+- Accuracy: 84.7%  
+- Strong recall:
+  - High Temperature Overheating: 100%  
+  - Low Temperature Overheating: 95%  
+- Weaker performance:
+  - Partial Discharge: 67%  
+
+
+### Comparison
+| Method           | Accuracy | Coverage | Flexibility |
+|------------------|----------|----------|-------------|
+| Rogers Ratio     | 92.6%    | Low      | No          |
+| Random Forest    | 84.7%    | High     | Yes         |
+
+### Interpretation
+- Rogers Ratio performs well when rules apply but lacks coverage  
+- Random Forest provides better generalization across unseen data  
 
 ---
 
-## Citation
+## 3. Data Preprocessing (Lancaster DGA Dataset)
 
-If you use this dataset, please cite the following work:
+### Objective
+Clean noisy time-series data while preserving meaningful signals.
 
-```bibtex
-@inproceedings{haoyietal-informer-2021,
-  author    = {Haoyi Zhou and
-               Shanghang Zhang and
-               Jieqi Peng and
-               Shuai Zhang and
-               Jianxin Li and
-               Hui Xiong and
-               Wancai Zhang},
-  title     = {Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting},
-  booktitle = {The Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI} 2021, Virtual Conference},
-  volume    = {35},
-  number    = {12},
-  pages     = {11106--11115},
-  publisher = {{AAAI} Press},
-  year      = {2021},
-}
+
+### Hampel Filter (Outlier Detection)
+- Based on Median Absolute Deviation (MAD)  
+- Outlier condition:
+  |x - median| > nσ × 1.4826 × MAD
+
+
+### Kalman Filtering Pipeline
+
+#### Step 1: Detect Outliers
+- Rolling Z-score (window = 25)  
+- Threshold: |z| > 3.5  
+
+#### Step 2: Replace Outliers
+- Mark detected points as missing  
+- Apply SARIMAX (AR(1) model)  
+- Use Kalman smoothing to estimate corrected values  
+
+
+### Evaluation Metrics
+- Variance Reduction: Indicates noise suppression  
+- Correlation (Original vs Corrected): Measures signal preservation  
