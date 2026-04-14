@@ -7,4 +7,6 @@ I have primarily contributed to the following major components:
 2. Fault Diagnosis using Rogers Ratio and Random Forest  
 3. Data Preprocessing using Hampel Filter and Kalman Smoothing
 4. Health Index Calculation
+5. Health Index and Life Span Prediction using Supervided ML
+
 
