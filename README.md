@@ -3,10 +3,11 @@
 This project focuses on data-driven monitoring and fault diagnosis of power transformers using machine learning and statistical techniques. The objective is to identify anomalies, detect faults early, and improve transformer reliability.
 
 I have primarily contributed to the following major components:
-1. Outlier Detection in Oil Temperature Data using DBSCAN and Ridge Regression
-2. Fault Diagnosis using Rogers Ratio and Random Forest  
-3. Data Preprocessing using Hampel Filter and Kalman Smoothing
-4. Health Index Calculation
-5. Health Index and Life Span Prediction using Supervided ML
+1. Outlier Detection using DBSCAN & Ridge Regression
+2. Rogers Ratio and Random Forest
+3. Preprocessing using Hamphel & Kalman Filters
+4. Regression Modelling for HI & RUL
+5. Neural Network Classification of Transformer RUL
+
 
 
